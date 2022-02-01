@@ -1,0 +1,5702 @@
+{
+    "andrewrothstein/ansible-unarchive-deps": {
+        "createdAt": "2015-10-27T17:48:14Z",
+        "pushedAt": "2021-12-30T18:11:46Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 59,
+        "license": "mit",
+        "issue_rate": 0.054,
+        "commit_rate": 0.797
+    },
+    "elliotweiser/ansible-osx-command-line-tools": {
+        "createdAt": "2016-12-24T19:57:38Z",
+        "pushedAt": "2021-09-05T05:25:25Z",
+        "releases": 0,
+        "issues": 19,
+        "commits": 121,
+        "license": "mit",
+        "issue_rate": 0.339,
+        "commit_rate": 2.161
+    },
+    "robertdebock/ansible-role-buildtools": {
+        "createdAt": "2017-11-21T15:49:53Z",
+        "pushedAt": "2022-01-28T03:49:40Z",
+        "releases": 74,
+        "issues": 0,
+        "commits": 386,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 7.72
+    },
+    "robertdebock/ansible-role-core_dependencies": {
+        "createdAt": "2019-10-04T07:59:39Z",
+        "pushedAt": "2022-01-28T05:47:33Z",
+        "releases": 49,
+        "issues": 1,
+        "commits": 241,
+        "license": "apache-2.0",
+        "issue_rate": 0.037,
+        "commit_rate": 8.926
+    },
+    "StackStorm/ansible-st2": {
+        "createdAt": "2015-05-11T05:22:48Z",
+        "pushedAt": "2022-01-24T12:46:19Z",
+        "releases": 47,
+        "issues": 98,
+        "commits": 1020,
+        "license": "apache-2.0",
+        "issue_rate": 1.225,
+        "commit_rate": 12.75
+    },
+    "UnderGreen/ansible-prometheus-node-exporter": {
+        "createdAt": "2016-07-01T06:56:44Z",
+        "pushedAt": "2021-08-04T20:32:29Z",
+        "releases": 9,
+        "issues": 19,
+        "commits": 76,
+        "license": "gpl-2.0",
+        "issue_rate": 0.311,
+        "commit_rate": 1.246
+    },
+    "robertdebock/ansible-role-python_pip": {
+        "createdAt": "2017-11-01T19:35:00Z",
+        "pushedAt": "2022-01-28T09:28:47Z",
+        "releases": 79,
+        "issues": 6,
+        "commits": 533,
+        "license": "apache-2.0",
+        "issue_rate": 0.12,
+        "commit_rate": 10.66
+    },
+    "geerlingguy/ansible-role-apache-php-fpm": {
+        "createdAt": "2016-01-14T03:34:11Z",
+        "pushedAt": "2021-12-27T17:34:40Z",
+        "releases": 0,
+        "issues": 7,
+        "commits": 57,
+        "license": "mit",
+        "issue_rate": 0.099,
+        "commit_rate": 0.803
+    },
+    "andrewrothstein/ansible-calicoctl": {
+        "createdAt": "2017-01-29T19:08:09Z",
+        "pushedAt": "2021-11-15T15:57:03Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 63,
+        "license": "mit",
+        "issue_rate": 0.018,
+        "commit_rate": 1.105
+    },
+    "robertdebock/ansible-role-service": {
+        "createdAt": "2019-02-20T18:38:15Z",
+        "pushedAt": "2022-01-27T13:33:09Z",
+        "releases": 61,
+        "issues": 2,
+        "commits": 306,
+        "license": "apache-2.0",
+        "issue_rate": 0.057,
+        "commit_rate": 8.743
+    },
+    "nginxinc/ansible-role-nginx-config": {
+        "createdAt": "2020-08-10T14:23:45Z",
+        "pushedAt": "2022-01-28T02:54:20Z",
+        "releases": 9,
+        "issues": 44,
+        "commits": 171,
+        "license": "apache-2.0",
+        "issue_rate": 2.588,
+        "commit_rate": 10.059
+    },
+    "linux-system-roles/timesync": {
+        "createdAt": "2017-04-26T15:39:50Z",
+        "pushedAt": "2022-01-17T21:43:25Z",
+        "releases": 16,
+        "issues": 25,
+        "commits": 164,
+        "license": "mit",
+        "issue_rate": 0.446,
+        "commit_rate": 2.929
+    },
+    "andrewrothstein/ansible-alpine-glibc-shim": {
+        "createdAt": "2016-12-28T14:49:45Z",
+        "pushedAt": "2022-01-05T00:02:33Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 41,
+        "license": "mit",
+        "issue_rate": 0.033,
+        "commit_rate": 0.683
+    },
+    "weareinteractive/ansible-sudo": {
+        "createdAt": "2014-08-15T11:34:37Z",
+        "pushedAt": "2022-01-10T13:13:24Z",
+        "releases": 0,
+        "issues": 13,
+        "commits": 163,
+        "license": "mit",
+        "issue_rate": 0.148,
+        "commit_rate": 1.852
+    },
+    "weareinteractive/ansible-openssl": {
+        "createdAt": "2014-08-02T16:01:23Z",
+        "pushedAt": "2021-02-10T12:06:24Z",
+        "releases": 0,
+        "issues": 6,
+        "commits": 133,
+        "license": "mit",
+        "issue_rate": 0.077,
+        "commit_rate": 1.705
+    },
+    "zauberpony/ansible-mysql-query": {
+        "createdAt": "2015-02-22T18:44:01Z",
+        "pushedAt": "2021-09-23T23:30:47Z",
+        "releases": 0,
+        "issues": 16,
+        "commits": 85,
+        "license": "gpl-3.0",
+        "issue_rate": 0.203,
+        "commit_rate": 1.076
+    },
+    "stackhpc/ansible-role-libvirt-host": {
+        "createdAt": "2017-12-05T12:32:39Z",
+        "pushedAt": "2022-01-27T14:19:41Z",
+        "releases": 13,
+        "issues": 13,
+        "commits": 98,
+        "license": null,
+        "issue_rate": 0.265,
+        "commit_rate": 2.0
+    },
+    "ypsman/ansible-timedatectl": {
+        "createdAt": "2017-02-28T16:13:25Z",
+        "pushedAt": "2018-05-24T15:13:13Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 13,
+        "license": null,
+        "issue_rate": 0.071,
+        "commit_rate": 0.929
+    },
+    "stackhpc/ansible-role-libvirt-vm": {
+        "createdAt": "2017-12-05T12:37:27Z",
+        "pushedAt": "2021-10-08T08:30:20Z",
+        "releases": 16,
+        "issues": 26,
+        "commits": 179,
+        "license": null,
+        "issue_rate": 0.565,
+        "commit_rate": 3.891
+    },
+    "robertdebock/ansible-role-ca_certificates": {
+        "createdAt": "2019-10-11T13:24:04Z",
+        "pushedAt": "2022-01-27T16:02:25Z",
+        "releases": 33,
+        "issues": 0,
+        "commits": 198,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 7.333
+    },
+    "PyratLabs/ansible-role-k3s": {
+        "createdAt": "2019-03-02T21:00:05Z",
+        "pushedAt": "2022-01-30T14:08:53Z",
+        "releases": 48,
+        "issues": 93,
+        "commits": 367,
+        "license": "bsd-3-clause",
+        "issue_rate": 2.735,
+        "commit_rate": 10.794
+    },
+    "johanmeiring/ansible-sftp": {
+        "createdAt": "2014-05-22T07:12:09Z",
+        "pushedAt": "2021-12-21T06:29:19Z",
+        "releases": 20,
+        "issues": 22,
+        "commits": 113,
+        "license": "mit",
+        "issue_rate": 0.242,
+        "commit_rate": 1.242
+    },
+    "cloudalchemy/ansible-snmp-exporter": {
+        "createdAt": "2017-12-08T23:00:21Z",
+        "pushedAt": "2022-01-30T14:22:41Z",
+        "releases": 16,
+        "issues": 1,
+        "commits": 131,
+        "license": "mit",
+        "issue_rate": 0.02,
+        "commit_rate": 2.673
+    },
+    "kostyrev/ansible-role-openswan": {
+        "createdAt": "2016-12-22T21:01:28Z",
+        "pushedAt": "2021-06-01T23:26:52Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 27,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.509
+    },
+    "bdellegrazie/ansible-role-prometheus_exporter": {
+        "createdAt": "2017-07-10T21:21:54Z",
+        "pushedAt": "2021-04-07T21:10:15Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 43,
+        "license": "gpl-3.0",
+        "issue_rate": 0.023,
+        "commit_rate": 0.977
+    },
+    "dhoeric/ansible-aws-ssm": {
+        "createdAt": "2017-05-08T15:12:12Z",
+        "pushedAt": "2021-03-30T13:34:04Z",
+        "releases": 2,
+        "issues": 9,
+        "commits": 31,
+        "license": null,
+        "issue_rate": 0.196,
+        "commit_rate": 0.674
+    },
+    "GROG/ansible-role-debug-variable": {
+        "createdAt": "2015-08-09T20:32:50Z",
+        "pushedAt": "2016-02-08T15:48:29Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 15,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.0
+    },
+    "stackhpc/ansible-role-os-openstackclient": {
+        "createdAt": "2017-04-06T19:02:21Z",
+        "pushedAt": "2021-09-13T10:52:58Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 29,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.547
+    },
+    "stackhpc/ansible-role-os-images": {
+        "createdAt": "2017-05-18T14:11:10Z",
+        "pushedAt": "2022-01-25T09:33:32Z",
+        "releases": 16,
+        "issues": 6,
+        "commits": 118,
+        "license": "apache-2.0",
+        "issue_rate": 0.107,
+        "commit_rate": 2.107
+    },
+    "stackhpc/ansible-role-os-networks": {
+        "createdAt": "2017-05-16T17:06:31Z",
+        "pushedAt": "2021-09-13T10:42:45Z",
+        "releases": 10,
+        "issues": 12,
+        "commits": 64,
+        "license": "apache-2.0",
+        "issue_rate": 0.235,
+        "commit_rate": 1.255
+    },
+    "stackhpc/ansible-role-grafana-conf": {
+        "createdAt": "2017-11-22T10:20:22Z",
+        "pushedAt": "2021-06-03T09:40:12Z",
+        "releases": 1,
+        "issues": 2,
+        "commits": 34,
+        "license": "apache-2.0",
+        "issue_rate": 0.048,
+        "commit_rate": 0.81
+    },
+    "gantsign/ansible-role-postman": {
+        "createdAt": "2016-11-11T09:11:33Z",
+        "pushedAt": "2022-01-09T18:46:48Z",
+        "releases": 8,
+        "issues": 2,
+        "commits": 70,
+        "license": "mit",
+        "issue_rate": 0.033,
+        "commit_rate": 1.148
+    },
+    "andrewrothstein/ansible-kubernetes-helm": {
+        "createdAt": "2016-11-11T14:13:34Z",
+        "pushedAt": "2022-01-03T19:29:16Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 126,
+        "license": "mit",
+        "issue_rate": 0.049,
+        "commit_rate": 2.066
+    },
+    "stefangweichinger/ansible-rclone": {
+        "createdAt": "2016-07-07T07:00:00Z",
+        "pushedAt": "2022-01-26T12:47:17Z",
+        "releases": 0,
+        "issues": 30,
+        "commits": 208,
+        "license": null,
+        "issue_rate": 0.455,
+        "commit_rate": 3.152
+    },
+    "idealista/fluentd-role": {
+        "createdAt": "2017-11-07T12:23:31Z",
+        "pushedAt": "2020-06-23T18:21:36Z",
+        "releases": 7,
+        "issues": 6,
+        "commits": 48,
+        "license": "apache-2.0",
+        "issue_rate": 0.194,
+        "commit_rate": 1.548
+    },
+    "ryandaniels/ansible-role-create-users": {
+        "createdAt": "2017-02-14T04:44:55Z",
+        "pushedAt": "2021-11-08T07:58:50Z",
+        "releases": 8,
+        "issues": 9,
+        "commits": 64,
+        "license": "mit",
+        "issue_rate": 0.161,
+        "commit_rate": 1.143
+    },
+    "avinetworks/ansible-role-avisdk": {
+        "createdAt": "2016-09-28T18:27:53Z",
+        "pushedAt": "2022-01-26T05:25:15Z",
+        "releases": 53,
+        "issues": 8,
+        "commits": 346,
+        "license": "apache-2.0",
+        "issue_rate": 0.127,
+        "commit_rate": 5.492
+    },
+    "stackhpc/ansible-role-os-openstacksdk": {
+        "createdAt": "2020-02-12T11:20:14Z",
+        "pushedAt": "2021-11-22T13:01:49Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 34,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.619
+    },
+    "robertdebock/ansible-role-zabbix_repository": {
+        "createdAt": "2018-12-20T15:22:02Z",
+        "pushedAt": "2022-01-27T13:14:51Z",
+        "releases": 50,
+        "issues": 2,
+        "commits": 273,
+        "license": "apache-2.0",
+        "issue_rate": 0.054,
+        "commit_rate": 7.378
+    },
+    "threatstack/threatstack-ansible": {
+        "createdAt": "2015-02-17T22:11:41Z",
+        "pushedAt": "2021-11-15T16:16:46Z",
+        "releases": 22,
+        "issues": 16,
+        "commits": 168,
+        "license": "mit",
+        "issue_rate": 0.2,
+        "commit_rate": 2.1
+    },
+    "GROG/ansible-role-management-user": {
+        "createdAt": "2015-08-16T18:59:13Z",
+        "pushedAt": "2021-05-31T22:28:20Z",
+        "releases": 13,
+        "issues": 3,
+        "commits": 30,
+        "license": "mit",
+        "issue_rate": 0.043,
+        "commit_rate": 0.435
+    },
+    "robertdebock/ansible-role-apt_autostart": {
+        "createdAt": "2018-11-28T05:42:11Z",
+        "pushedAt": "2022-01-27T09:23:51Z",
+        "releases": 50,
+        "issues": 0,
+        "commits": 234,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.158
+    },
+    "andrewrothstein/ansible-gcc-toolbox": {
+        "createdAt": "2017-04-05T12:15:52Z",
+        "pushedAt": "2022-01-05T00:04:58Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 32,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.561
+    },
+    "stackhpc/ansible-role-luks": {
+        "createdAt": "2020-04-09T13:21:16Z",
+        "pushedAt": "2021-09-27T14:39:41Z",
+        "releases": 9,
+        "issues": 1,
+        "commits": 94,
+        "license": null,
+        "issue_rate": 0.059,
+        "commit_rate": 5.529
+    },
+    "Oefenweb/ansible-ssh-keys": {
+        "createdAt": "2015-06-16T13:52:10Z",
+        "pushedAt": "2021-08-02T09:15:24Z",
+        "releases": 20,
+        "issues": 8,
+        "commits": 151,
+        "license": "mit",
+        "issue_rate": 0.11,
+        "commit_rate": 2.068
+    },
+    "idealista/prometheus_jmx_exporter_role": {
+        "createdAt": "2017-03-11T17:46:57Z",
+        "pushedAt": "2021-06-02T02:06:23Z",
+        "releases": 11,
+        "issues": 19,
+        "commits": 127,
+        "license": "apache-2.0",
+        "issue_rate": 0.38,
+        "commit_rate": 2.54
+    },
+    "entanet-devops/new-relic-apm": {
+        "createdAt": "2019-10-15T13:41:29Z",
+        "pushedAt": "2021-11-08T19:20:57Z",
+        "releases": 9,
+        "issues": 0,
+        "commits": 16,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.667
+    },
+    "wcm-io-devops/ansible-aem-security": {
+        "createdAt": "2018-04-10T10:18:24Z",
+        "pushedAt": "2021-03-15T08:45:10Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 30,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.857
+    },
+    "tulibraries/ansible-role-passenger-apache": {
+        "createdAt": "2016-02-12T18:09:53Z",
+        "pushedAt": "2021-12-16T21:15:08Z",
+        "releases": 7,
+        "issues": 4,
+        "commits": 20,
+        "license": null,
+        "issue_rate": 0.057,
+        "commit_rate": 0.286
+    },
+    "couchbaselabs/ansible-couchbase-server": {
+        "createdAt": "2020-11-16T16:20:45Z",
+        "pushedAt": "2021-04-19T13:26:23Z",
+        "releases": 6,
+        "issues": 6,
+        "commits": 286,
+        "license": "apache-2.0",
+        "issue_rate": 1.2,
+        "commit_rate": 57.2
+    },
+    "Oefenweb/ansible-percona-server-tools": {
+        "createdAt": "2015-09-10T11:13:35Z",
+        "pushedAt": "2021-06-25T20:24:50Z",
+        "releases": 14,
+        "issues": 6,
+        "commits": 121,
+        "license": "mit",
+        "issue_rate": 0.087,
+        "commit_rate": 1.754
+    },
+    "lae/ansible-role-travis-lxc": {
+        "createdAt": "2016-12-08T23:45:20Z",
+        "pushedAt": "2021-01-16T03:07:29Z",
+        "releases": 10,
+        "issues": 17,
+        "commits": 224,
+        "license": "mit",
+        "issue_rate": 0.347,
+        "commit_rate": 4.571
+    },
+    "aruba/aoscx-ansible-role": {
+        "createdAt": "2019-08-16T16:04:53Z",
+        "pushedAt": "2021-10-04T17:17:51Z",
+        "releases": 16,
+        "issues": 7,
+        "commits": 57,
+        "license": null,
+        "issue_rate": 0.28,
+        "commit_rate": 2.28
+    },
+    "gantsign/ansible-role-inotify": {
+        "createdAt": "2016-09-23T08:49:27Z",
+        "pushedAt": "2022-01-22T19:46:40Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 71,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.109
+    },
+    "robertdebock/ansible-role-gnome": {
+        "createdAt": "2020-03-12T05:51:26Z",
+        "pushedAt": "2022-01-27T10:47:33Z",
+        "releases": 27,
+        "issues": 1,
+        "commits": 186,
+        "license": "apache-2.0",
+        "issue_rate": 0.045,
+        "commit_rate": 8.455
+    },
+    "ome/ansible-role-hosts-populate": {
+        "createdAt": "2017-01-12T17:47:04Z",
+        "pushedAt": "2021-02-06T21:57:02Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 21,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.438
+    },
+    "mailcow/mailcow-ansiblerole": {
+        "createdAt": "2019-10-21T20:06:34Z",
+        "pushedAt": "2021-12-02T12:59:37Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 38,
+        "license": "gpl-3.0",
+        "issue_rate": 0.16,
+        "commit_rate": 1.52
+    },
+    "signalfx/ansible-signalfx-agent": {
+        "createdAt": "2018-07-10T15:21:42Z",
+        "pushedAt": "2021-06-10T18:42:53Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 14,
+        "license": null,
+        "issue_rate": 0.086,
+        "commit_rate": 0.4
+    },
+    "ypsman/ansible-update": {
+        "createdAt": "2018-05-25T17:11:27Z",
+        "pushedAt": "2018-05-25T17:32:50Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 3,
+        "license": null,
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "andrewrothstein/ansible-pivnet": {
+        "createdAt": "2020-08-05T16:16:56Z",
+        "pushedAt": "2021-12-20T19:30:33Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 8,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.5
+    },
+    "robertdebock/ansible-role-maintenance": {
+        "createdAt": "2020-02-04T15:47:45Z",
+        "pushedAt": "2022-01-27T11:15:33Z",
+        "releases": 22,
+        "issues": 0,
+        "commits": 174,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 7.565
+    },
+    "systemli/ansible-role-jitsi-meet-exporter": {
+        "createdAt": "2020-03-23T22:55:17Z",
+        "pushedAt": "2022-01-30T14:26:15Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 48,
+        "license": "gpl-3.0",
+        "issue_rate": 0.045,
+        "commit_rate": 2.182
+    },
+    "tulibraries/ansible-role-server-bootstrap": {
+        "createdAt": "2019-02-25T19:40:07Z",
+        "pushedAt": "2021-12-20T21:06:33Z",
+        "releases": 10,
+        "issues": 5,
+        "commits": 54,
+        "license": null,
+        "issue_rate": 0.152,
+        "commit_rate": 1.636
+    },
+    "stackhpc/ansible-role-os-shade": {
+        "createdAt": "2017-04-06T18:59:37Z",
+        "pushedAt": "2021-06-15T11:27:05Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 23,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.46
+    },
+    "Dynatrace/Dynatrace-OneAgent-Ansible": {
+        "createdAt": "2016-06-20T14:56:32Z",
+        "pushedAt": "2021-10-22T21:24:44Z",
+        "releases": 7,
+        "issues": 13,
+        "commits": 127,
+        "license": "mit",
+        "issue_rate": 0.203,
+        "commit_rate": 1.984
+    },
+    "darkwizard242/ansible-role-trivy": {
+        "createdAt": "2020-04-06T20:55:44Z",
+        "pushedAt": "2021-05-02T18:19:32Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 42,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.5
+    },
+    "marvel-nccr/ansible-role-quantum-espresso": {
+        "createdAt": "2018-05-01T13:54:16Z",
+        "pushedAt": "2021-03-25T07:36:09Z",
+        "releases": 3,
+        "issues": 3,
+        "commits": 43,
+        "license": "other",
+        "issue_rate": 0.088,
+        "commit_rate": 1.265
+    },
+    "deekayen/ansible-role-win_updates": {
+        "createdAt": "2016-10-13T23:17:09Z",
+        "pushedAt": "2021-07-13T03:30:51Z",
+        "releases": 1,
+        "issues": 2,
+        "commits": 19,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.036,
+        "commit_rate": 0.339
+    },
+    "rbicker/ansible-icinga2node": {
+        "createdAt": "2017-02-03T08:37:03Z",
+        "pushedAt": "2021-07-28T14:01:01Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 64,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.208
+    },
+    "robertdebock/ansible-role-microsoft_repository_keys": {
+        "createdAt": "2019-11-14T05:46:52Z",
+        "pushedAt": "2022-01-27T11:24:13Z",
+        "releases": 24,
+        "issues": 0,
+        "commits": 155,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 5.962
+    },
+    "mablanco/ansible-antirootkits": {
+        "createdAt": "2017-09-25T10:16:46Z",
+        "pushedAt": "2021-07-30T09:44:23Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 39,
+        "license": "gpl-3.0",
+        "issue_rate": 0.022,
+        "commit_rate": 0.848
+    },
+    "alannix-lw/lacework-agent-ansible-role": {
+        "createdAt": "2021-03-01T18:38:02Z",
+        "pushedAt": "2021-10-14T21:18:01Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 6,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.857
+    },
+    "gmoisio/ansible-aos-stdlib": {
+        "createdAt": "2019-12-30T16:17:10Z",
+        "pushedAt": "2021-07-04T07:52:08Z",
+        "releases": 13,
+        "issues": 5,
+        "commits": 34,
+        "license": null,
+        "issue_rate": 0.278,
+        "commit_rate": 1.889
+    },
+    "aminvakil/ansible-role-php_initial": {
+        "createdAt": "2021-02-14T14:01:14Z",
+        "pushedAt": "2021-06-04T15:23:12Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 16,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 5.333
+    },
+    "andrewrothstein/ansible-nats": {
+        "createdAt": "2019-06-11T17:57:42Z",
+        "pushedAt": "2022-01-03T16:47:32Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 19,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.633
+    },
+    "ypsman/ansible-cleanup": {
+        "createdAt": "2017-03-02T18:31:18Z",
+        "pushedAt": "2017-03-02T19:34:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 4,
+        "license": null,
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "bertvv/ansible-role-rh-base": {
+        "createdAt": "2016-04-30T07:44:33Z",
+        "pushedAt": "2021-08-30T08:47:09Z",
+        "releases": 0,
+        "issues": 12,
+        "commits": 118,
+        "license": "other",
+        "issue_rate": 0.188,
+        "commit_rate": 1.844
+    },
+    "andrewrothstein/ansible-tflint": {
+        "createdAt": "2020-02-26T14:15:58Z",
+        "pushedAt": "2022-01-05T00:16:48Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 46,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.091
+    },
+    "robertdebock/ansible-role-obsproject": {
+        "createdAt": "2019-08-21T07:15:04Z",
+        "pushedAt": "2022-01-27T13:03:09Z",
+        "releases": 26,
+        "issues": 0,
+        "commits": 198,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.828
+    },
+    "robertdebock/ansible-role-container_docs": {
+        "createdAt": "2019-08-15T05:35:10Z",
+        "pushedAt": "2022-01-27T18:45:21Z",
+        "releases": 35,
+        "issues": 0,
+        "commits": 201,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.931
+    },
+    "Thulium-Drake/ansible-role-vmware": {
+        "createdAt": "2019-04-09T06:11:18Z",
+        "pushedAt": "2021-10-05T19:57:21Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 59,
+        "license": "gpl-3.0",
+        "issue_rate": 0.069,
+        "commit_rate": 2.034
+    },
+    "grzegorznowak/query-exporter-role": {
+        "createdAt": "2021-11-29T14:28:52Z",
+        "pushedAt": "2022-01-04T07:20:42Z",
+        "releases": 6,
+        "issues": 1,
+        "commits": 34,
+        "license": "mit",
+        "issue_rate": 1.0,
+        "commit_rate": 34.0
+    },
+    "wilmardo/ansible-role-plex": {
+        "createdAt": "2017-03-14T20:56:44Z",
+        "pushedAt": "2019-04-16T09:45:29Z",
+        "releases": 5,
+        "issues": 4,
+        "commits": 117,
+        "license": "bsd-3-clause-clear",
+        "issue_rate": 0.16,
+        "commit_rate": 4.68
+    },
+    "Rheinwerk/ansible-role-update_mongos_config": {
+        "createdAt": "2017-08-29T14:45:31Z",
+        "pushedAt": "2021-11-15T15:41:36Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 30,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.6
+    },
+    "nephelaiio/ansible-role-ubuntu-installer": {
+        "createdAt": "2017-10-23T22:49:38Z",
+        "pushedAt": "2021-10-07T04:47:33Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 197,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.191
+    },
+    "ome/ansible-role-network-cloud-interfaces": {
+        "createdAt": "2017-01-12T14:47:13Z",
+        "pushedAt": "2021-02-12T23:02:34Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 16,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.02,
+        "commit_rate": 0.327
+    },
+    "robertdebock/ansible-role-artifactory": {
+        "createdAt": "2018-09-14T10:41:07Z",
+        "pushedAt": "2022-01-27T10:15:22Z",
+        "releases": 59,
+        "issues": 7,
+        "commits": 313,
+        "license": "apache-2.0",
+        "issue_rate": 0.175,
+        "commit_rate": 7.825
+    },
+    "ypsman/ansible-backports": {
+        "createdAt": "2017-03-02T16:43:00Z",
+        "pushedAt": "2018-05-25T16:31:02Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 6,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.429
+    },
+    "OndrejHome/ansible.ha-cluster-pacemaker": {
+        "createdAt": "2016-06-16T20:45:19Z",
+        "pushedAt": "2022-01-30T06:27:32Z",
+        "releases": 0,
+        "issues": 10,
+        "commits": 152,
+        "license": "gpl-3.0",
+        "issue_rate": 0.149,
+        "commit_rate": 2.269
+    },
+    "Storware/ansible-vprotect-server": {
+        "createdAt": "2019-09-04T11:45:35Z",
+        "pushedAt": "2021-03-17T11:11:27Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.111
+    },
+    "gantsign/ansible_role_bat": {
+        "createdAt": "2018-09-27T12:15:50Z",
+        "pushedAt": "2022-01-12T21:27:01Z",
+        "releases": 18,
+        "issues": 0,
+        "commits": 52,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.333
+    },
+    "avinetworks/ansible-role-avise": {
+        "createdAt": "2016-10-27T00:10:27Z",
+        "pushedAt": "2021-12-21T07:38:10Z",
+        "releases": 17,
+        "issues": 0,
+        "commits": 208,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 3.41
+    },
+    "barangerjeanmarc/site_lamp": {
+        "createdAt": "2018-05-01T17:14:21Z",
+        "pushedAt": "2021-03-01T18:43:44Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 100,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.941
+    },
+    "ccdc-opensource/ansible-role-ccdc-package-manager-configuration": {
+        "createdAt": "2021-04-09T18:53:16Z",
+        "pushedAt": "2021-07-15T15:12:02Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 13.333
+    },
+    "grycap/ansible-role-munge": {
+        "createdAt": "2016-11-09T14:52:48Z",
+        "pushedAt": "2021-05-10T08:29:13Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 46,
+        "license": "apache-2.0",
+        "issue_rate": 0.019,
+        "commit_rate": 0.868
+    },
+    "tarantool/ansible-cartridge": {
+        "createdAt": "2019-08-29T11:06:24Z",
+        "pushedAt": "2021-11-29T12:26:00Z",
+        "releases": 11,
+        "issues": 134,
+        "commits": 252,
+        "license": "other",
+        "issue_rate": 4.963,
+        "commit_rate": 9.333
+    },
+    "trombik/ansible-role-apt_repo": {
+        "createdAt": "2017-12-08T05:11:02Z",
+        "pushedAt": "2021-09-14T11:40:44Z",
+        "releases": 9,
+        "issues": 5,
+        "commits": 46,
+        "license": "isc",
+        "issue_rate": 0.111,
+        "commit_rate": 1.022
+    },
+    "geerlingguy/ansible-role-docker_arm": {
+        "createdAt": "2019-02-27T02:43:49Z",
+        "pushedAt": "2021-12-27T17:34:57Z",
+        "releases": 0,
+        "issues": 24,
+        "commits": 54,
+        "license": "mit",
+        "issue_rate": 0.727,
+        "commit_rate": 1.636
+    },
+    "thomas-maurice/ansible-role-gitea": {
+        "createdAt": "2017-01-10T21:10:08Z",
+        "pushedAt": "2022-01-16T16:46:40Z",
+        "releases": 1,
+        "issues": 15,
+        "commits": 123,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.25,
+        "commit_rate": 2.05
+    },
+    "darkwizard242/cis_ubuntu_2004": {
+        "createdAt": "2020-08-08T03:07:26Z",
+        "pushedAt": "2022-01-04T01:35:57Z",
+        "releases": 7,
+        "issues": 8,
+        "commits": 1408,
+        "license": "mit",
+        "issue_rate": 0.5,
+        "commit_rate": 88.0
+    },
+    "roles-ansible/ansible_role_versioncheck": {
+        "createdAt": "2019-10-01T21:03:17Z",
+        "pushedAt": "2022-01-11T13:39:20Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 64,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.37
+    },
+    "diodonfrost/ansible-role-amazon-codedeploy": {
+        "createdAt": "2020-01-18T13:31:49Z",
+        "pushedAt": "2021-11-08T20:13:56Z",
+        "releases": 8,
+        "issues": 1,
+        "commits": 56,
+        "license": "apache-2.0",
+        "issue_rate": 0.048,
+        "commit_rate": 2.667
+    },
+    "sansible/vernemq": {
+        "createdAt": "2017-11-15T10:49:51Z",
+        "pushedAt": "2021-03-18T11:36:18Z",
+        "releases": 0,
+        "issues": 7,
+        "commits": 15,
+        "license": "mit",
+        "issue_rate": 0.175,
+        "commit_rate": 0.375
+    },
+    "Thulium-Drake/ansible-role-subscription_manager": {
+        "createdAt": "2020-08-07T15:56:01Z",
+        "pushedAt": "2022-01-10T12:25:45Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 16,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.941
+    },
+    "ome/ansible-role-openstack-volume-storage": {
+        "createdAt": "2017-01-12T14:47:40Z",
+        "pushedAt": "2022-01-27T13:53:11Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 30,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.5
+    },
+    "avinetworks/ansible-role-avise-vmware": {
+        "createdAt": "2018-06-18T15:50:10Z",
+        "pushedAt": "2020-11-11T19:11:48Z",
+        "releases": 4,
+        "issues": 1,
+        "commits": 21,
+        "license": "apache-2.0",
+        "issue_rate": 0.036,
+        "commit_rate": 0.75
+    },
+    "mrlesmithjr/ansible-frr": {
+        "createdAt": "2018-01-28T22:00:06Z",
+        "pushedAt": "2021-12-16T20:13:57Z",
+        "releases": 0,
+        "issues": 24,
+        "commits": 261,
+        "license": "mit",
+        "issue_rate": 0.522,
+        "commit_rate": 5.674
+    },
+    "darkwizard242/ansible-role-adoptopenjdk": {
+        "createdAt": "2020-12-29T21:00:37Z",
+        "pushedAt": "2021-04-04T17:26:20Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 25,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 8.333
+    },
+    "idealista/airflow-role": {
+        "createdAt": "2017-07-17T08:53:18Z",
+        "pushedAt": "2022-01-28T10:12:33Z",
+        "releases": 18,
+        "issues": 36,
+        "commits": 215,
+        "license": "apache-2.0",
+        "issue_rate": 0.667,
+        "commit_rate": 3.981
+    },
+    "Rheinwerk/ansible-role-install_root_ca_certs": {
+        "createdAt": "2016-11-18T11:15:09Z",
+        "pushedAt": "2021-10-28T21:04:30Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 31,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.525
+    },
+    "fradee/magentotools": {
+        "createdAt": "2016-04-12T18:53:06Z",
+        "pushedAt": "2017-01-24T21:01:05Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 16,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.778
+    },
+    "andrewrothstein/ansible-trust-ca": {
+        "createdAt": "2016-10-13T17:53:07Z",
+        "pushedAt": "2021-07-28T21:21:24Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.035,
+        "commit_rate": 0.702
+    },
+    "baztian/ansible-pip-venv": {
+        "createdAt": "2020-04-04T12:38:45Z",
+        "pushedAt": "2022-01-12T20:09:10Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 21,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "nephosolutions/ansible-role-sshguard": {
+        "createdAt": "2020-04-02T23:06:17Z",
+        "pushedAt": "2021-02-26T11:53:00Z",
+        "releases": 3,
+        "issues": 1,
+        "commits": 8,
+        "license": "apache-2.0",
+        "issue_rate": 0.1,
+        "commit_rate": 0.8
+    },
+    "GoogleCloudPlatform/stackdriver-ansible-role": {
+        "createdAt": "2014-09-29T16:51:18Z",
+        "pushedAt": "2022-01-27T17:51:37Z",
+        "releases": 6,
+        "issues": 21,
+        "commits": 51,
+        "license": "apache-2.0",
+        "issue_rate": 0.239,
+        "commit_rate": 0.58
+    },
+    "jgeusebroek/ansible-role-maxmind-geoip": {
+        "createdAt": "2015-11-18T10:51:20Z",
+        "pushedAt": "2021-08-23T07:45:26Z",
+        "releases": 0,
+        "issues": 5,
+        "commits": 47,
+        "license": null,
+        "issue_rate": 0.072,
+        "commit_rate": 0.681
+    },
+    "darkwizard242/ansible-role-subfinder": {
+        "createdAt": "2020-04-13T14:47:47Z",
+        "pushedAt": "2021-09-29T20:45:08Z",
+        "releases": 17,
+        "issues": 0,
+        "commits": 78,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.588
+    },
+    "getstackhead/module-container-docker": {
+        "createdAt": "2020-08-24T15:04:47Z",
+        "pushedAt": "2021-02-28T12:38:28Z",
+        "releases": 29,
+        "issues": 5,
+        "commits": 52,
+        "license": null,
+        "issue_rate": 0.833,
+        "commit_rate": 8.667
+    },
+    "juwai/ansible-role-libzmq": {
+        "createdAt": "2016-01-14T08:14:21Z",
+        "pushedAt": "2022-01-05T09:19:10Z",
+        "releases": 6,
+        "issues": 1,
+        "commits": 13,
+        "license": null,
+        "issue_rate": 0.014,
+        "commit_rate": 0.183
+    },
+    "StackFocus/ansible-role-postfix-dovecot": {
+        "createdAt": "2016-12-29T04:22:17Z",
+        "pushedAt": "2021-08-24T14:47:40Z",
+        "releases": 4,
+        "issues": 10,
+        "commits": 40,
+        "license": null,
+        "issue_rate": 0.182,
+        "commit_rate": 0.727
+    },
+    "amtega/ansible_role_select_hostvars": {
+        "createdAt": "2018-11-07T12:29:53Z",
+        "pushedAt": "2022-01-26T08:55:39Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 47,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.237
+    },
+    "Oefenweb/ansible-bash": {
+        "createdAt": "2015-04-24T14:38:15Z",
+        "pushedAt": "2022-01-14T12:29:09Z",
+        "releases": 10,
+        "issues": 2,
+        "commits": 107,
+        "license": "mit",
+        "issue_rate": 0.025,
+        "commit_rate": 1.337
+    },
+    "andrewrothstein/ansible-bazel": {
+        "createdAt": "2016-12-01T04:13:36Z",
+        "pushedAt": "2021-12-26T05:16:00Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 76,
+        "license": "mit",
+        "issue_rate": 0.05,
+        "commit_rate": 1.267
+    },
+    "UdelaRInterior/ansible-role-jitsi-meet": {
+        "createdAt": "2019-03-19T13:45:25Z",
+        "pushedAt": "2020-05-25T18:49:31Z",
+        "releases": 2,
+        "issues": 13,
+        "commits": 195,
+        "license": null,
+        "issue_rate": 0.929,
+        "commit_rate": 13.929
+    },
+    "idealista/rsyslog_role": {
+        "createdAt": "2019-01-18T10:59:16Z",
+        "pushedAt": "2021-07-07T10:06:19Z",
+        "releases": 10,
+        "issues": 7,
+        "commits": 63,
+        "license": "apache-2.0",
+        "issue_rate": 0.241,
+        "commit_rate": 2.172
+    },
+    "Rheinwerk/ansible-role-ulimits_setup": {
+        "createdAt": "2016-11-16T12:24:05Z",
+        "pushedAt": "2021-10-28T11:45:51Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 9,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.153
+    },
+    "ypsman/ansible-sshd-config": {
+        "createdAt": "2017-03-07T16:03:22Z",
+        "pushedAt": "2018-05-30T23:41:07Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 7,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.5
+    },
+    "itnok/ansible-role-install-pkg-ubuntu": {
+        "createdAt": "2020-03-03T23:43:31Z",
+        "pushedAt": "2021-09-07T22:32:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 30,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 1.667
+    },
+    "RedHatOfficial/ansible-role-rhel8-ospp": {
+        "createdAt": "2019-05-11T02:12:04Z",
+        "pushedAt": "2021-12-10T01:46:18Z",
+        "releases": 15,
+        "issues": 0,
+        "commits": 48,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.548
+    },
+    "adfinis-sygroup/ansible-role-_template": {
+        "createdAt": "2018-05-01T08:45:52Z",
+        "pushedAt": "2022-01-03T15:24:09Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 38,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.864
+    },
+    "theoapp/ansible-role-theo-agent": {
+        "createdAt": "2019-05-06T06:04:50Z",
+        "pushedAt": "2021-02-17T11:45:04Z",
+        "releases": 0,
+        "issues": 27,
+        "commits": 100,
+        "license": null,
+        "issue_rate": 1.286,
+        "commit_rate": 4.762
+    },
+    "zzet/rbenv": {
+        "createdAt": "2013-12-26T10:30:36Z",
+        "pushedAt": "2021-05-14T08:02:24Z",
+        "releases": 56,
+        "issues": 53,
+        "commits": 205,
+        "license": null,
+        "issue_rate": 0.602,
+        "commit_rate": 2.33
+    },
+    "wcm-io-devops/ansible-apache-service": {
+        "createdAt": "2019-05-03T09:15:57Z",
+        "pushedAt": "2021-03-15T08:45:03Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 21,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.955
+    },
+    "OsgiliathEnterprise/ansible-securehost": {
+        "createdAt": "2020-04-10T21:23:34Z",
+        "pushedAt": "2021-12-05T20:54:11Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 85,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 4.474
+    },
+    "ikke-t/podman-container-systemd": {
+        "createdAt": "2019-02-05T07:12:24Z",
+        "pushedAt": "2022-01-24T17:38:15Z",
+        "releases": 1,
+        "issues": 23,
+        "commits": 104,
+        "license": null,
+        "issue_rate": 0.657,
+        "commit_rate": 2.971
+    },
+    "mrlesmithjr/ansible-mariadb-galera-cluster": {
+        "createdAt": "2015-08-04T19:35:20Z",
+        "pushedAt": "2022-01-29T14:04:29Z",
+        "releases": 6,
+        "issues": 40,
+        "commits": 194,
+        "license": "mit",
+        "issue_rate": 0.519,
+        "commit_rate": 2.519
+    },
+    "Oefenweb/ansible-innotop": {
+        "createdAt": "2015-11-13T11:07:59Z",
+        "pushedAt": "2021-06-25T20:24:15Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 77,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.149
+    },
+    "mrlesmithjr/ansible-kea-dhcp": {
+        "createdAt": "2016-05-16T14:40:02Z",
+        "pushedAt": "2021-07-09T22:13:05Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 31,
+        "license": "mit",
+        "issue_rate": 0.033,
+        "commit_rate": 0.508
+    },
+    "ImNtReal/ansible-role-epic_odb": {
+        "createdAt": "2020-01-28T19:53:56Z",
+        "pushedAt": "2021-12-30T19:35:51Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 206,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 8.957
+    },
+    "IDR/ansible-role-openstack-idr-network": {
+        "createdAt": "2017-01-12T14:51:51Z",
+        "pushedAt": "2021-07-26T08:56:53Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 17,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.315
+    },
+    "capitanh/microk8s_ansible_role": {
+        "createdAt": "2021-07-01T07:36:53Z",
+        "pushedAt": "2021-12-05T10:35:54Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 43,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 8.6
+    },
+    "gantsign/ansible-role-default-web-browser": {
+        "createdAt": "2016-09-04T06:56:57Z",
+        "pushedAt": "2022-01-13T23:06:31Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 73,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.141
+    },
+    "florianutz/ubuntu2004_cis": {
+        "createdAt": "2020-09-26T10:09:04Z",
+        "pushedAt": "2022-01-06T19:43:13Z",
+        "releases": 2,
+        "issues": 14,
+        "commits": 27,
+        "license": "mit",
+        "issue_rate": 0.933,
+        "commit_rate": 1.8
+    },
+    "yogo1212/ansible-go": {
+        "createdAt": "2018-02-20T09:05:06Z",
+        "pushedAt": "2020-02-07T10:28:54Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 79,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 3.435
+    },
+    "huxoll/ansible-role-azure-cli": {
+        "createdAt": "2018-06-12T20:07:49Z",
+        "pushedAt": "2020-10-30T19:50:18Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 26,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.929
+    },
+    "roles-ansible/ansible_role_prometheus_openstack_exporter": {
+        "createdAt": "2021-04-22T14:41:29Z",
+        "pushedAt": "2021-04-27T11:49:12Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 25,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "pro-vision/ansible-jenkins-pv": {
+        "createdAt": "2018-11-07T11:06:58Z",
+        "pushedAt": "2022-01-27T14:41:29Z",
+        "releases": 24,
+        "issues": 0,
+        "commits": 82,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.158
+    },
+    "dudefellah/ansible-role-mutt": {
+        "createdAt": "2020-07-31T22:15:37Z",
+        "pushedAt": "2021-06-01T18:49:40Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 7,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.778
+    },
+    "abims-sbr/ansible-sequenceserver": {
+        "createdAt": "2021-01-29T10:52:53Z",
+        "pushedAt": "2021-12-20T17:52:21Z",
+        "releases": 4,
+        "issues": 2,
+        "commits": 8,
+        "license": "mit",
+        "issue_rate": 0.2,
+        "commit_rate": 0.8
+    },
+    "Ableton/ansible-role-jenkins-swarm-client": {
+        "createdAt": "2021-08-05T14:27:41Z",
+        "pushedAt": "2022-01-18T09:32:26Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 480,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 96.0
+    },
+    "oatakan/ansible-role-windows_vmware_tools": {
+        "createdAt": "2019-06-27T22:58:54Z",
+        "pushedAt": "2021-11-13T19:24:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 31,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.107
+    },
+    "weakcamel/ansible-role-loki": {
+        "createdAt": "2021-02-24T15:11:09Z",
+        "pushedAt": "2021-03-24T10:49:56Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 16,
+        "license": "wtfpl",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "redhat-sap/sap-hana-hsr": {
+        "createdAt": "2019-11-27T09:47:24Z",
+        "pushedAt": "2021-11-19T12:23:41Z",
+        "releases": 2,
+        "issues": 6,
+        "commits": 38,
+        "license": "apache-2.0",
+        "issue_rate": 0.261,
+        "commit_rate": 1.652
+    },
+    "Appsilon/ansible-rstudio-connect": {
+        "createdAt": "2021-08-26T19:26:11Z",
+        "pushedAt": "2022-01-12T10:25:28Z",
+        "releases": 7,
+        "issues": 1,
+        "commits": 35,
+        "license": "mit",
+        "issue_rate": 0.25,
+        "commit_rate": 8.75
+    },
+    "IDR/ansible-role-idr-jupyter": {
+        "createdAt": "2017-01-12T14:48:22Z",
+        "pushedAt": "2021-07-26T08:58:14Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 47,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.87
+    },
+    "avinetworks/ansible-role-avise-csp": {
+        "createdAt": "2018-04-17T23:52:55Z",
+        "pushedAt": "2021-11-17T13:19:46Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 46,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.07
+    },
+    "adfinis-sygroup/ansible-role-pkg_mirror": {
+        "createdAt": "2018-05-01T08:37:34Z",
+        "pushedAt": "2022-01-28T12:56:17Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 77,
+        "license": "gpl-3.0",
+        "issue_rate": 0.091,
+        "commit_rate": 1.75
+    },
+    "thorian93/ansible-role-certmanage": {
+        "createdAt": "2020-05-02T16:40:30Z",
+        "pushedAt": "2021-06-11T12:11:50Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.538
+    },
+    "micko920/homelab_base_system": {
+        "createdAt": "2020-01-24T01:12:01Z",
+        "pushedAt": "2022-01-25T02:44:45Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 24,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "robertdebock/ansible-role-powertools": {
+        "createdAt": "2020-01-21T06:37:23Z",
+        "pushedAt": "2022-01-27T14:13:46Z",
+        "releases": 20,
+        "issues": 1,
+        "commits": 160,
+        "license": "apache-2.0",
+        "issue_rate": 0.042,
+        "commit_rate": 6.667
+    },
+    "darkwizard242/ansible-role-googlechrome": {
+        "createdAt": "2019-09-15T21:00:59Z",
+        "pushedAt": "2021-10-20T19:37:17Z",
+        "releases": 5,
+        "issues": 1,
+        "commits": 50,
+        "license": "mit",
+        "issue_rate": 0.04,
+        "commit_rate": 2.0
+    },
+    "itnok/ansible-role-install-ros-ubuntu": {
+        "createdAt": "2020-03-26T23:38:51Z",
+        "pushedAt": "2021-06-17T22:18:41Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 14,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "HanXHX/ansible-debian-sury": {
+        "createdAt": "2017-01-27T15:52:22Z",
+        "pushedAt": "2021-09-01T08:26:14Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 13,
+        "license": "gpl-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.236
+    },
+    "andrewrothstein/ansible-prometheus-installer": {
+        "createdAt": "2017-06-09T22:29:18Z",
+        "pushedAt": "2022-01-03T19:05:18Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 72,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.333
+    },
+    "joe-speedboat/ansible.elastic_easy": {
+        "createdAt": "2021-11-17T13:05:03Z",
+        "pushedAt": "2021-12-09T09:28:32Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 24,
+        "license": "gpl-3.0",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "robertdebock/ansible-role-remi": {
+        "createdAt": "2019-07-14T17:44:47Z",
+        "pushedAt": "2022-01-27T14:18:33Z",
+        "releases": 38,
+        "issues": 1,
+        "commits": 241,
+        "license": "apache-2.0",
+        "issue_rate": 0.033,
+        "commit_rate": 8.033
+    },
+    "ypsman/ansible-hostname": {
+        "createdAt": "2017-03-06T13:23:00Z",
+        "pushedAt": "2017-05-31T13:55:08Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 7,
+        "license": null,
+        "issue_rate": 1.0,
+        "commit_rate": 3.5
+    },
+    "idealista/consul_role": {
+        "createdAt": "2017-12-22T12:27:12Z",
+        "pushedAt": "2021-12-23T16:05:34Z",
+        "releases": 18,
+        "issues": 27,
+        "commits": 156,
+        "license": "apache-2.0",
+        "issue_rate": 0.562,
+        "commit_rate": 3.25
+    },
+    "Ableton/ansible-role-fastbuild": {
+        "createdAt": "2021-08-20T09:12:27Z",
+        "pushedAt": "2022-01-17T10:43:13Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 103,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 25.75
+    },
+    "idealista/prometheus_blackbox_exporter_role": {
+        "createdAt": "2017-03-24T13:57:05Z",
+        "pushedAt": "2021-12-11T02:08:53Z",
+        "releases": 4,
+        "issues": 8,
+        "commits": 42,
+        "license": "apache-2.0",
+        "issue_rate": 0.143,
+        "commit_rate": 0.75
+    },
+    "christiangda/ansible-role-awscli-configure": {
+        "createdAt": "2019-10-12T17:25:56Z",
+        "pushedAt": "2021-06-24T09:07:43Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 20,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "linux-system-roles/kdump": {
+        "createdAt": "2017-04-25T16:37:55Z",
+        "pushedAt": "2022-01-11T13:27:50Z",
+        "releases": 12,
+        "issues": 8,
+        "commits": 122,
+        "license": "mit",
+        "issue_rate": 0.143,
+        "commit_rate": 2.179
+    },
+    "tulibraries/ansible-rails_app": {
+        "createdAt": "2017-05-04T14:51:38Z",
+        "pushedAt": "2022-01-04T18:59:08Z",
+        "releases": 21,
+        "issues": 6,
+        "commits": 95,
+        "license": null,
+        "issue_rate": 0.107,
+        "commit_rate": 1.696
+    },
+    "mullholland/ansible-role-repository_epel": {
+        "createdAt": "2022-01-15T13:55:34Z",
+        "pushedAt": "2022-01-17T23:29:14Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 7,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "Rheinwerk/ansible-role-disable_crash_reporters": {
+        "createdAt": "2017-02-01T10:52:36Z",
+        "pushedAt": "2021-10-28T15:03:16Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 12,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.214
+    },
+    "darkraiden/ansible-role-pip": {
+        "createdAt": "2017-03-24T14:12:49Z",
+        "pushedAt": "2018-06-21T14:44:28Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 27,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.929
+    },
+    "Oefenweb/ansible-rstudio-server": {
+        "createdAt": "2015-09-01T14:25:45Z",
+        "pushedAt": "2021-06-14T10:48:17Z",
+        "releases": 20,
+        "issues": 2,
+        "commits": 114,
+        "license": "mit",
+        "issue_rate": 0.029,
+        "commit_rate": 1.652
+    },
+    "mrlesmithjr/ansible-cloud-init": {
+        "createdAt": "2018-04-07T05:01:43Z",
+        "pushedAt": "2021-09-23T23:34:39Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 11,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.268
+    },
+    "oatakan/ansible-role-windows_ovirt_template": {
+        "createdAt": "2020-03-20T19:43:46Z",
+        "pushedAt": "2021-10-17T07:47:24Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 41,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.278
+    },
+    "oatakan/ansible-role-rhel_ovirt_template": {
+        "createdAt": "2020-03-30T16:32:22Z",
+        "pushedAt": "2021-09-11T21:14:10Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 30,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.765
+    },
+    "Oefenweb/ansible-logrotated": {
+        "createdAt": "2015-09-01T15:10:28Z",
+        "pushedAt": "2021-06-17T14:01:15Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 85,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.232
+    },
+    "wcm-io-devops/ansible-aem-cms": {
+        "createdAt": "2017-07-10T08:45:05Z",
+        "pushedAt": "2021-10-04T14:14:24Z",
+        "releases": 6,
+        "issues": 1,
+        "commits": 121,
+        "license": "apache-2.0",
+        "issue_rate": 0.02,
+        "commit_rate": 2.42
+    },
+    "CoffeeITWorks/ansible_burp2_server": {
+        "createdAt": "2016-07-28T13:42:26Z",
+        "pushedAt": "2021-07-14T01:42:59Z",
+        "releases": 33,
+        "issues": 47,
+        "commits": 408,
+        "license": "mit",
+        "issue_rate": 0.797,
+        "commit_rate": 6.915
+    },
+    "wpnops/ansible-role-fluent-bit": {
+        "createdAt": "2021-02-10T23:31:35Z",
+        "pushedAt": "2022-01-21T06:34:49Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 46,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.182
+    },
+    "cohesity/cohesity-ansible-role": {
+        "createdAt": "2018-10-03T03:59:12Z",
+        "pushedAt": "2022-01-28T13:53:31Z",
+        "releases": 18,
+        "issues": 14,
+        "commits": 223,
+        "license": "apache-2.0",
+        "issue_rate": 0.359,
+        "commit_rate": 5.718
+    },
+    "marvel-nccr/ansible-role-aiida": {
+        "createdAt": "2018-05-10T08:30:58Z",
+        "pushedAt": "2021-09-24T08:57:19Z",
+        "releases": 17,
+        "issues": 27,
+        "commits": 110,
+        "license": "other",
+        "issue_rate": 0.675,
+        "commit_rate": 2.75
+    },
+    "RedHatOfficial/ansible-role-rhel8-rht-ccp": {
+        "createdAt": "2019-05-11T02:12:06Z",
+        "pushedAt": "2021-12-10T01:46:05Z",
+        "releases": 15,
+        "issues": 0,
+        "commits": 47,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.516
+    },
+    "gantsign/ansible_role_lazygit": {
+        "createdAt": "2019-10-31T18:54:39Z",
+        "pushedAt": "2022-01-11T19:45:14Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 18,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.692
+    },
+    "dudefellah/ansible-role-iac": {
+        "createdAt": "2021-09-10T21:25:02Z",
+        "pushedAt": "2022-01-10T20:20:05Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 8,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.667
+    },
+    "avinetworks/ansible-role-avise-kvm": {
+        "createdAt": "2019-03-19T13:55:35Z",
+        "pushedAt": "2021-07-08T05:14:31Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 20,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.741
+    },
+    "informatique-cdc/ansible-role-win_authorized_key": {
+        "createdAt": "2019-12-19T14:12:15Z",
+        "pushedAt": "2021-02-04T15:16:58Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 15,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.154
+    },
+    "remyma/ansible-artemis": {
+        "createdAt": "2017-10-18T10:43:31Z",
+        "pushedAt": "2021-09-23T23:23:22Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 53,
+        "license": null,
+        "issue_rate": 0.043,
+        "commit_rate": 1.128
+    },
+    "infothrill/ansible-role-hd_idle": {
+        "createdAt": "2017-04-10T05:25:33Z",
+        "pushedAt": "2022-01-25T06:35:58Z",
+        "releases": 4,
+        "issues": 4,
+        "commits": 101,
+        "license": "mit",
+        "issue_rate": 0.07,
+        "commit_rate": 1.772
+    },
+    "ome/ansible-role-minio-s3-gateway": {
+        "createdAt": "2020-08-06T19:18:28Z",
+        "pushedAt": "2021-02-06T21:38:26Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 12,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 2.0
+    },
+    "v0112358/ansible-role-redis-cluster": {
+        "createdAt": "2021-08-06T09:44:51Z",
+        "pushedAt": "2021-08-26T04:20:01Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 16,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "tulibraries/ansible-role-networking": {
+        "createdAt": "2019-03-13T18:59:11Z",
+        "pushedAt": "2021-09-23T23:31:30Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 26,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.867
+    },
+    "mergermarket/ansible-role-cloudwatch-monitoring": {
+        "createdAt": "2017-11-02T14:35:25Z",
+        "pushedAt": "2021-10-21T20:45:42Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 39,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.83
+    },
+    "Thulium-Drake/ansible-role-acme_ssl": {
+        "createdAt": "2019-06-02T19:28:59Z",
+        "pushedAt": "2021-11-21T16:43:26Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 131,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 4.517
+    },
+    "diodonfrost/ansible-role-sonar-scanner": {
+        "createdAt": "2019-05-26T11:24:43Z",
+        "pushedAt": "2021-09-15T20:14:01Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 60,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.222
+    },
+    "idiv-biodiversity/ansible-role-repo-xcat": {
+        "createdAt": "2016-12-01T08:33:43Z",
+        "pushedAt": "2021-07-06T15:02:37Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 15,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.273
+    },
+    "andrewrothstein/ansible-jfrogcli": {
+        "createdAt": "2019-06-30T14:55:12Z",
+        "pushedAt": "2022-01-16T05:15:19Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 68,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.267
+    },
+    "andrewrothstein/ansible-protoc": {
+        "createdAt": "2016-10-30T04:34:37Z",
+        "pushedAt": "2022-01-16T05:21:20Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 29,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.468
+    },
+    "ypsman/ansible-ssl": {
+        "createdAt": "2017-03-07T17:08:04Z",
+        "pushedAt": "2018-05-25T16:11:01Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 9,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.643
+    },
+    "macunha1/confluent-kafka-role": {
+        "createdAt": "2018-02-26T21:18:24Z",
+        "pushedAt": "2021-12-06T18:48:10Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 55,
+        "license": "apache-2.0",
+        "issue_rate": 0.022,
+        "commit_rate": 1.222
+    },
+    "nifcloud/ansible-role-nifcloud": {
+        "createdAt": "2017-01-18T01:39:55Z",
+        "pushedAt": "2021-03-24T09:32:03Z",
+        "releases": 13,
+        "issues": 19,
+        "commits": 143,
+        "license": "apache-2.0",
+        "issue_rate": 0.38,
+        "commit_rate": 2.86
+    },
+    "wcm-io-devops/ansible-conga-aem-dispatcher-smoke-test": {
+        "createdAt": "2018-01-10T17:20:20Z",
+        "pushedAt": "2021-06-28T14:33:28Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 65,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.585
+    },
+    "wcm-io-devops/ansible-conga-bundle-files": {
+        "createdAt": "2018-01-13T12:56:45Z",
+        "pushedAt": "2021-03-15T08:44:59Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 37,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.974
+    },
+    "Accelize/ansible-role-linux-kernel": {
+        "createdAt": "2019-09-20T14:10:42Z",
+        "pushedAt": "2021-08-16T14:17:24Z",
+        "releases": 12,
+        "issues": 1,
+        "commits": 15,
+        "license": "apache-2.0",
+        "issue_rate": 0.045,
+        "commit_rate": 0.682
+    },
+    "ome/ansible-role-reboot-server": {
+        "createdAt": "2017-01-12T17:47:22Z",
+        "pushedAt": "2021-02-13T16:40:52Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 12,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.02,
+        "commit_rate": 0.245
+    },
+    "Oefenweb/ansible-percona-server": {
+        "createdAt": "2015-08-26T12:21:37Z",
+        "pushedAt": "2021-06-25T20:24:47Z",
+        "releases": 24,
+        "issues": 19,
+        "commits": 169,
+        "license": "mit",
+        "issue_rate": 0.271,
+        "commit_rate": 2.414
+    },
+    "darkwizard242/ansible-role-serverspec": {
+        "createdAt": "2020-04-09T14:08:34Z",
+        "pushedAt": "2021-05-01T16:50:03Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 42,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.5
+    },
+    "suzuki-shunsuke/ansible-pyenv-module": {
+        "createdAt": "2017-07-01T08:49:17Z",
+        "pushedAt": "2022-01-15T06:45:45Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 75,
+        "license": "mit",
+        "issue_rate": 0.037,
+        "commit_rate": 1.389
+    },
+    "Thulium-Drake/ansible-role-ansible_controller": {
+        "createdAt": "2020-09-30T13:05:19Z",
+        "pushedAt": "2022-01-19T19:22:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 33,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.2
+    },
+    "itnok/ansible-role-is-ubuntu": {
+        "createdAt": "2021-02-08T01:18:33Z",
+        "pushedAt": "2021-07-02T22:53:58Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 15,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 3.75
+    },
+    "wcm-io-devops/ansible-conga-aem-dispatcher-flush": {
+        "createdAt": "2017-12-07T15:51:58Z",
+        "pushedAt": "2021-03-15T08:44:37Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 32,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.821
+    },
+    "robertdebock/ansible-role-software": {
+        "createdAt": "2020-10-13T09:33:39Z",
+        "pushedAt": "2022-01-27T13:34:05Z",
+        "releases": 17,
+        "issues": 0,
+        "commits": 90,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.0
+    },
+    "Rheinwerk/ansible-role-mongos": {
+        "createdAt": "2017-09-07T16:04:30Z",
+        "pushedAt": "2021-10-28T15:02:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 12,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.245
+    },
+    "linux-system-roles/nbde_server": {
+        "createdAt": "2019-11-07T11:43:00Z",
+        "pushedAt": "2022-01-11T13:47:12Z",
+        "releases": 7,
+        "issues": 2,
+        "commits": 65,
+        "license": "mit",
+        "issue_rate": 0.077,
+        "commit_rate": 2.5
+    },
+    "lenovo/ansible-role-lxca-inventory": {
+        "createdAt": "2018-03-14T13:15:14Z",
+        "pushedAt": "2021-07-15T10:14:43Z",
+        "releases": 4,
+        "issues": 1,
+        "commits": 27,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.025,
+        "commit_rate": 0.675
+    },
+    "pacifica/ansible-drupalvm": {
+        "createdAt": "2020-04-20T22:08:48Z",
+        "pushedAt": "2021-03-14T21:05:04Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 6,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.6
+    },
+    "tschifftner/ansible-role-n98-magerun": {
+        "createdAt": "2016-01-13T17:59:57Z",
+        "pushedAt": "2018-07-24T17:58:45Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 19,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.633
+    },
+    "infothrill/ansible-role-datadog_check_lynis": {
+        "createdAt": "2017-12-23T09:04:38Z",
+        "pushedAt": "2021-12-01T11:08:50Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 84,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.787
+    },
+    "softasap/sa_loki": {
+        "createdAt": "2020-01-06T14:33:31Z",
+        "pushedAt": "2022-01-10T12:35:59Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 52,
+        "license": "mit",
+        "issue_rate": 0.042,
+        "commit_rate": 2.167
+    },
+    "Storware/ansible-vprotect-node": {
+        "createdAt": "2019-09-04T12:39:29Z",
+        "pushedAt": "2021-03-17T11:11:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 7,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.389
+    },
+    "Thulium-Drake/ansible-role-nullmailer": {
+        "createdAt": "2020-05-11T15:52:26Z",
+        "pushedAt": "2021-10-04T20:14:48Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 11,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.688
+    },
+    "gantsign/ansible-role-lightdm": {
+        "createdAt": "2016-04-14T18:22:33Z",
+        "pushedAt": "2022-01-22T20:43:55Z",
+        "releases": 14,
+        "issues": 4,
+        "commits": 101,
+        "license": "mit",
+        "issue_rate": 0.058,
+        "commit_rate": 1.464
+    },
+    "andrewrothstein/ansible-goreleaser": {
+        "createdAt": "2019-07-30T18:47:19Z",
+        "pushedAt": "2022-01-16T03:59:27Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 105,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.621
+    },
+    "pacifica/ansible-pacifica": {
+        "createdAt": "2018-08-23T22:42:18Z",
+        "pushedAt": "2021-07-13T04:50:39Z",
+        "releases": 3,
+        "issues": 15,
+        "commits": 21,
+        "license": "lgpl-3.0",
+        "issue_rate": 0.441,
+        "commit_rate": 0.618
+    },
+    "getstackhead/module-webserver-nginx": {
+        "createdAt": "2020-08-20T17:49:56Z",
+        "pushedAt": "2021-02-28T17:44:14Z",
+        "releases": 15,
+        "issues": 1,
+        "commits": 49,
+        "license": null,
+        "issue_rate": 0.167,
+        "commit_rate": 8.167
+    },
+    "Rheinwerk/ansible-role-unix_users": {
+        "createdAt": "2016-11-22T09:10:08Z",
+        "pushedAt": "2021-10-28T11:45:19Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 10,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.169
+    },
+    "tsukune-ch/ansible-role-canonical_livepatch": {
+        "createdAt": "2020-06-01T17:47:21Z",
+        "pushedAt": "2021-08-01T08:36:32Z",
+        "releases": 6,
+        "issues": 5,
+        "commits": 46,
+        "license": "mit",
+        "issue_rate": 0.385,
+        "commit_rate": 3.538
+    },
+    "CafeLungo/ansible-role-foxpass": {
+        "createdAt": "2018-09-26T15:14:57Z",
+        "pushedAt": "2021-09-23T23:22:26Z",
+        "releases": 3,
+        "issues": 2,
+        "commits": 21,
+        "license": null,
+        "issue_rate": 0.057,
+        "commit_rate": 0.6
+    },
+    "ome/ansible-role-cli-utils": {
+        "createdAt": "2017-01-06T16:21:04Z",
+        "pushedAt": "2021-05-06T10:09:40Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 31,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.02,
+        "commit_rate": 0.608
+    },
+    "idealista/prometheus_apache_exporter_role": {
+        "createdAt": "2017-11-15T11:36:06Z",
+        "pushedAt": "2021-06-07T08:26:19Z",
+        "releases": 3,
+        "issues": 5,
+        "commits": 36,
+        "license": "apache-2.0",
+        "issue_rate": 0.119,
+        "commit_rate": 0.857
+    },
+    "fourforbusiness/ansible-role-basic-setup": {
+        "createdAt": "2018-03-08T09:01:24Z",
+        "pushedAt": "2018-05-07T09:03:16Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 49,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 49.0
+    },
+    "linux-system-roles/tlog": {
+        "createdAt": "2020-02-07T15:23:52Z",
+        "pushedAt": "2022-01-18T16:18:03Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 86,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 3.739
+    },
+    "mrlesmithjr/ansible-etc-hosts": {
+        "createdAt": "2016-01-19T19:54:39Z",
+        "pushedAt": "2021-03-08T20:43:56Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 19,
+        "license": null,
+        "issue_rate": 0.016,
+        "commit_rate": 0.311
+    },
+    "darkwizard242/ansible-role-gcloudsdk": {
+        "createdAt": "2020-02-03T22:38:34Z",
+        "pushedAt": "2021-04-12T23:20:52Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 52,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.714
+    },
+    "wcm-io-devops/ansible-conga-aem-packages": {
+        "createdAt": "2017-07-10T09:41:46Z",
+        "pushedAt": "2021-03-19T14:01:26Z",
+        "releases": 9,
+        "issues": 0,
+        "commits": 96,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.182
+    },
+    "Rheinwerk/ansible-role-update_logrotate_config": {
+        "createdAt": "2020-02-12T19:12:44Z",
+        "pushedAt": "2021-10-28T14:59:02Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 5,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.25
+    },
+    "ome/ansible-role-omero-common": {
+        "createdAt": "2017-03-09T20:32:17Z",
+        "pushedAt": "2021-02-09T21:39:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 26,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.553
+    },
+    "lafarer/ansible-role-osx-defaults": {
+        "createdAt": "2015-12-28T12:56:06Z",
+        "pushedAt": "2021-06-25T14:18:04Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 166,
+        "license": null,
+        "issue_rate": 0.062,
+        "commit_rate": 2.554
+    },
+    "cloudalchemy/ansible-memcached-exporter": {
+        "createdAt": "2020-11-17T12:58:16Z",
+        "pushedAt": "2022-01-30T14:22:34Z",
+        "releases": 1,
+        "issues": 2,
+        "commits": 17,
+        "license": "mit",
+        "issue_rate": 0.143,
+        "commit_rate": 1.214
+    },
+    "mullholland/ansible-role-repository_powertools": {
+        "createdAt": "2022-01-15T13:55:28Z",
+        "pushedAt": "2022-01-16T18:42:10Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 4,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "OsgiliathEnterprise/ansible-nameserver": {
+        "createdAt": "2020-05-18T20:40:03Z",
+        "pushedAt": "2021-12-05T20:54:12Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 76,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 4.222
+    },
+    "thorian93/ansible-role-upgrade": {
+        "createdAt": "2019-10-31T21:12:45Z",
+        "pushedAt": "2022-01-15T17:50:38Z",
+        "releases": 0,
+        "issues": 10,
+        "commits": 82,
+        "license": "mit",
+        "issue_rate": 0.385,
+        "commit_rate": 3.154
+    },
+    "mrlesmithjr/ansible-dnsmasq": {
+        "createdAt": "2015-07-29T16:44:13Z",
+        "pushedAt": "2021-09-24T19:11:37Z",
+        "releases": 5,
+        "issues": 13,
+        "commits": 105,
+        "license": "mit",
+        "issue_rate": 0.178,
+        "commit_rate": 1.438
+    },
+    "avinetworks/ansible-role-avicontroller": {
+        "createdAt": "2016-10-21T20:23:53Z",
+        "pushedAt": "2021-12-16T03:57:57Z",
+        "releases": 13,
+        "issues": 1,
+        "commits": 250,
+        "license": "apache-2.0",
+        "issue_rate": 0.016,
+        "commit_rate": 4.098
+    },
+    "amtega/ansible_role_check_platform": {
+        "createdAt": "2018-11-07T11:21:21Z",
+        "pushedAt": "2022-01-19T16:18:53Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 71,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.868
+    },
+    "aeimer/ansible-install-bat": {
+        "createdAt": "2018-09-04T15:13:22Z",
+        "pushedAt": "2021-02-24T09:11:36Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.379
+    },
+    "ypsman/ansible-apt": {
+        "createdAt": "2017-03-02T15:02:17Z",
+        "pushedAt": "2018-05-30T23:44:09Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 6,
+        "license": null,
+        "issue_rate": 0.071,
+        "commit_rate": 0.429
+    },
+    "darkwizard242/ansible-role-jenkinslts": {
+        "createdAt": "2019-09-21T03:47:01Z",
+        "pushedAt": "2021-08-01T06:19:31Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 100,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.545
+    },
+    "oatakan/ansible-role-rhel_template_build": {
+        "createdAt": "2018-08-14T05:22:32Z",
+        "pushedAt": "2021-06-20T21:56:55Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 67,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.971
+    },
+    "RedHatOfficial/ansible-role-rhel8-stig": {
+        "createdAt": "2020-02-12T17:50:17Z",
+        "pushedAt": "2021-12-10T01:46:54Z",
+        "releases": 12,
+        "issues": 0,
+        "commits": 42,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.0
+    },
+    "oVirt/ovirt-ansible-shutdown-env": {
+        "createdAt": "2018-07-25T11:45:24Z",
+        "pushedAt": "2021-05-05T09:39:37Z",
+        "releases": 5,
+        "issues": 3,
+        "commits": 72,
+        "license": "apache-2.0",
+        "issue_rate": 0.091,
+        "commit_rate": 2.182
+    },
+    "wcm-io-devops/ansible-jenkins-script-security": {
+        "createdAt": "2018-09-14T11:57:16Z",
+        "pushedAt": "2021-03-15T08:36:17Z",
+        "releases": 5,
+        "issues": 2,
+        "commits": 18,
+        "license": "apache-2.0",
+        "issue_rate": 0.069,
+        "commit_rate": 0.621
+    },
+    "Thulium-Drake/ansible-role-ldap": {
+        "createdAt": "2020-05-21T10:25:53Z",
+        "pushedAt": "2021-10-05T16:43:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 36,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.25
+    },
+    "rhevm-qe-automation/ovirt-ansible": {
+        "createdAt": "2016-06-16T11:45:37Z",
+        "pushedAt": "2020-11-09T08:18:18Z",
+        "releases": 9,
+        "issues": 65,
+        "commits": 175,
+        "license": "gpl-3.0",
+        "issue_rate": 1.25,
+        "commit_rate": 3.365
+    },
+    "shinesolutions-opensource/ansible-role-vars-schema-validator": {
+        "createdAt": "2020-04-10T14:38:55Z",
+        "pushedAt": "2021-06-15T05:38:47Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 61,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 4.357
+    },
+    "OsgiliathEnterprise/ansible-routing": {
+        "createdAt": "2020-04-22T14:00:45Z",
+        "pushedAt": "2021-11-10T23:00:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 72,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 4.0
+    },
+    "Oefenweb/ansible-cron-apt": {
+        "createdAt": "2014-08-19T10:51:00Z",
+        "pushedAt": "2022-01-19T09:42:01Z",
+        "releases": 7,
+        "issues": 2,
+        "commits": 97,
+        "license": "mit",
+        "issue_rate": 0.022,
+        "commit_rate": 1.09
+    },
+    "idealista/goreplay-role": {
+        "createdAt": "2016-12-15T13:44:24Z",
+        "pushedAt": "2021-06-02T03:20:18Z",
+        "releases": 3,
+        "issues": 7,
+        "commits": 62,
+        "license": "apache-2.0",
+        "issue_rate": 0.132,
+        "commit_rate": 1.17
+    },
+    "wcm-io-devops/ansible-conga-files": {
+        "createdAt": "2017-07-10T09:37:49Z",
+        "pushedAt": "2021-03-15T08:45:17Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 30,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.682
+    },
+    "dudefellah/ansible-role-system_users": {
+        "createdAt": "2020-12-15T22:31:32Z",
+        "pushedAt": "2021-06-23T19:16:56Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 15,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.5
+    },
+    "ctorgalson/ansible-role-macos-hostname": {
+        "createdAt": "2019-07-07T15:07:52Z",
+        "pushedAt": "2021-04-21T21:30:13Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 61,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.905
+    },
+    "Rheinwerk/ansible-role-rs_collector": {
+        "createdAt": "2016-10-11T10:33:26Z",
+        "pushedAt": "2021-10-28T15:01:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 22,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.367
+    },
+    "VeselaHouba/ansible-role-docker_container": {
+        "createdAt": "2021-02-11T17:42:42Z",
+        "pushedAt": "2022-01-03T10:43:39Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 19,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.9
+    },
+    "darkwizard242/ansible-role-stacer": {
+        "createdAt": "2020-11-01T23:01:15Z",
+        "pushedAt": "2021-05-02T18:16:32Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 26,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 5.2
+    },
+    "avinetworks/ansible-role-avicontroller-vmware": {
+        "createdAt": "2018-03-02T16:26:49Z",
+        "pushedAt": "2021-09-27T07:00:01Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 56,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.333
+    },
+    "tulibraries/ansible-role-jumphost": {
+        "createdAt": "2019-07-30T19:37:43Z",
+        "pushedAt": "2021-12-10T23:50:42Z",
+        "releases": 3,
+        "issues": 1,
+        "commits": 12,
+        "license": null,
+        "issue_rate": 0.036,
+        "commit_rate": 0.429
+    },
+    "darkwizard242/ansible-role-awless": {
+        "createdAt": "2020-03-30T15:00:07Z",
+        "pushedAt": "2021-04-05T19:49:01Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 47,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.917
+    },
+    "jborean93/ansible-role-win_openssh": {
+        "createdAt": "2018-10-31T03:01:13Z",
+        "pushedAt": "2021-09-18T04:23:40Z",
+        "releases": 5,
+        "issues": 10,
+        "commits": 20,
+        "license": "mit",
+        "issue_rate": 0.294,
+        "commit_rate": 0.588
+    },
+    "linux-system-roles/crypto_policies": {
+        "createdAt": "2020-11-16T15:52:15Z",
+        "pushedAt": "2022-01-11T15:32:10Z",
+        "releases": 7,
+        "issues": 2,
+        "commits": 56,
+        "license": "mit",
+        "issue_rate": 0.154,
+        "commit_rate": 4.308
+    },
+    "eduardolmedeiros/ansible-role-azcopy": {
+        "createdAt": "2020-02-19T14:28:30Z",
+        "pushedAt": "2021-11-22T14:52:57Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 55,
+        "license": "mit",
+        "issue_rate": 0.048,
+        "commit_rate": 2.619
+    },
+    "PeterMosmans/ansible-role-customize-gnome": {
+        "createdAt": "2017-11-29T02:58:08Z",
+        "pushedAt": "2021-12-09T14:53:13Z",
+        "releases": 0,
+        "issues": 5,
+        "commits": 53,
+        "license": "gpl-3.0",
+        "issue_rate": 0.104,
+        "commit_rate": 1.104
+    },
+    "smbambling/ansible-role-scl": {
+        "createdAt": "2016-12-13T15:26:39Z",
+        "pushedAt": "2021-11-15T17:52:03Z",
+        "releases": 0,
+        "issues": 6,
+        "commits": 85,
+        "license": "mit",
+        "issue_rate": 0.102,
+        "commit_rate": 1.441
+    },
+    "roles-ansible/ansible_role_xrandr_help": {
+        "createdAt": "2019-04-26T07:25:48Z",
+        "pushedAt": "2021-03-16T23:26:22Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 24,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.091
+    },
+    "andrewrothstein/ansible-bazelisk": {
+        "createdAt": "2019-08-06T17:25:22Z",
+        "pushedAt": "2022-01-31T04:39:38Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 35,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.207
+    },
+    "OsgiliathEnterprise/ansible-volumes": {
+        "createdAt": "2020-04-03T22:32:17Z",
+        "pushedAt": "2021-12-05T20:54:17Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 137,
+        "license": "other",
+        "issue_rate": 0.05,
+        "commit_rate": 6.85
+    },
+    "roles-ansible/ansible_role_acmetool_debian_fix": {
+        "createdAt": "2021-01-17T16:17:33Z",
+        "pushedAt": "2021-07-23T21:13:04Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 13,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.167
+    },
+    "exphost/exphost.instances_libvirt": {
+        "createdAt": "2020-04-11T13:30:28Z",
+        "pushedAt": "2021-12-16T12:23:58Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 42,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.1
+    },
+    "RedHatOfficial/ansible-role-rhel7-pci-dss": {
+        "createdAt": "2018-06-04T18:02:04Z",
+        "pushedAt": "2021-12-10T01:44:29Z",
+        "releases": 20,
+        "issues": 2,
+        "commits": 85,
+        "license": null,
+        "issue_rate": 0.048,
+        "commit_rate": 2.024
+    },
+    "freehck/ansible-role-user-func": {
+        "createdAt": "2018-05-30T16:27:59Z",
+        "pushedAt": "2021-07-06T20:08:54Z",
+        "releases": 1,
+        "issues": 2,
+        "commits": 12,
+        "license": null,
+        "issue_rate": 0.054,
+        "commit_rate": 0.324
+    },
+    "btravouillon/ansible-role-clustershell": {
+        "createdAt": "2021-12-05T03:58:06Z",
+        "pushedAt": "2021-12-05T16:56:54Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 10,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "fourforbusiness/ansible-role-copy-files": {
+        "createdAt": "2018-03-06T16:33:51Z",
+        "pushedAt": "2018-11-08T14:33:34Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.5
+    },
+    "justereseau/ansible-cloudflare_acme": {
+        "createdAt": "2020-04-06T19:38:15Z",
+        "pushedAt": "2021-08-12T20:02:40Z",
+        "releases": 11,
+        "issues": 0,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.5
+    },
+    "OsgiliathEnterprise/ansible-containerization": {
+        "createdAt": "2020-04-05T23:08:35Z",
+        "pushedAt": "2021-11-10T22:40:31Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 110,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 5.789
+    },
+    "andrewrothstein/ansible-starship": {
+        "createdAt": "2019-12-22T01:01:30Z",
+        "pushedAt": "2022-01-16T03:54:24Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 37,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.542
+    },
+    "fedejaure/ansible-role-rpi-lcd": {
+        "createdAt": "2020-08-19T19:49:00Z",
+        "pushedAt": "2022-01-11T19:37:34Z",
+        "releases": 8,
+        "issues": 3,
+        "commits": 136,
+        "license": "mit",
+        "issue_rate": 0.188,
+        "commit_rate": 8.5
+    },
+    "karmab/ansible-kcli-modules": {
+        "createdAt": "2018-02-02T22:53:14Z",
+        "pushedAt": "2021-11-26T21:44:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 13,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.289
+    },
+    "Thulium-Drake/ansible-role-docker_services": {
+        "createdAt": "2019-07-09T07:12:14Z",
+        "pushedAt": "2021-12-19T12:07:37Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 125,
+        "license": "gpl-3.0",
+        "issue_rate": 0.034,
+        "commit_rate": 4.31
+    },
+    "jobscore/ansible-role-cloudwatch-logs": {
+        "createdAt": "2017-09-29T16:07:42Z",
+        "pushedAt": "2021-09-08T18:10:07Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 42,
+        "license": "gpl-3.0",
+        "issue_rate": 0.021,
+        "commit_rate": 0.894
+    },
+    "trombik/ansible-role-x509_certificate": {
+        "createdAt": "2017-12-01T03:41:24Z",
+        "pushedAt": "2021-11-16T01:36:47Z",
+        "releases": 16,
+        "issues": 2,
+        "commits": 63,
+        "license": "isc",
+        "issue_rate": 0.043,
+        "commit_rate": 1.34
+    },
+    "smlloyd/ansible-role-minio_podman": {
+        "createdAt": "2020-04-21T09:47:32Z",
+        "pushedAt": "2021-11-04T03:25:34Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 16,
+        "license": "gpl-3.0",
+        "issue_rate": 0.056,
+        "commit_rate": 0.889
+    },
+    "darkwizard242/ansible-role-httpie": {
+        "createdAt": "2020-12-19T20:53:09Z",
+        "pushedAt": "2021-04-20T18:52:58Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 25,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 8.333
+    },
+    "tehtbl/ansible-role-reboot": {
+        "createdAt": "2019-11-25T19:45:14Z",
+        "pushedAt": "2020-11-07T10:33:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 17,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.545
+    },
+    "kso512/install-check_mk-server": {
+        "createdAt": "2017-05-24T15:45:55Z",
+        "pushedAt": "2021-09-02T16:31:40Z",
+        "releases": 53,
+        "issues": 4,
+        "commits": 186,
+        "license": "gpl-2.0",
+        "issue_rate": 0.078,
+        "commit_rate": 3.647
+    },
+    "hurricanehrndz/ansible-rustup": {
+        "createdAt": "2019-10-27T21:19:51Z",
+        "pushedAt": "2022-01-24T13:23:52Z",
+        "releases": 0,
+        "issues": 5,
+        "commits": 52,
+        "license": "mit",
+        "issue_rate": 0.192,
+        "commit_rate": 2.0
+    },
+    "Thulium-Drake/ansible-role-dns_server": {
+        "createdAt": "2019-09-27T11:04:16Z",
+        "pushedAt": "2021-11-08T09:25:14Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 77,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 3.08
+    },
+    "andrewrothstein/ansible-matchbox": {
+        "createdAt": "2017-07-12T01:29:48Z",
+        "pushedAt": "2021-08-20T00:50:18Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 28,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.571
+    },
+    "wcm-io-devops/ansible-jenkins-facts": {
+        "createdAt": "2018-05-24T17:14:41Z",
+        "pushedAt": "2021-03-15T08:36:59Z",
+        "releases": 9,
+        "issues": 3,
+        "commits": 33,
+        "license": "apache-2.0",
+        "issue_rate": 0.091,
+        "commit_rate": 1.0
+    },
+    "csmart/ansible-role-virt-infra": {
+        "createdAt": "2020-02-20T10:55:41Z",
+        "pushedAt": "2021-12-25T21:18:16Z",
+        "releases": 0,
+        "issues": 22,
+        "commits": 79,
+        "license": "gpl-3.0",
+        "issue_rate": 1.0,
+        "commit_rate": 3.591
+    },
+    "nmusatti/source-python": {
+        "createdAt": "2019-01-27T17:59:11Z",
+        "pushedAt": "2022-01-16T10:21:41Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 57,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.629
+    },
+    "dockpack/base_java8": {
+        "createdAt": "2017-07-20T19:46:31Z",
+        "pushedAt": "2021-10-09T16:33:04Z",
+        "releases": 6,
+        "issues": 3,
+        "commits": 100,
+        "license": "mit",
+        "issue_rate": 0.06,
+        "commit_rate": 2.0
+    },
+    "thiagoalmeidasa/ansible-role-aws-efs": {
+        "createdAt": "2018-04-23T14:29:17Z",
+        "pushedAt": "2021-04-07T07:18:36Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 22,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.629
+    },
+    "nginxinc/ansible-role-nginx-app-protect": {
+        "createdAt": "2020-04-10T14:56:07Z",
+        "pushedAt": "2022-01-21T19:25:28Z",
+        "releases": 16,
+        "issues": 10,
+        "commits": 290,
+        "license": "apache-2.0",
+        "issue_rate": 0.476,
+        "commit_rate": 13.81
+    },
+    "deekayen/ansible-role-mde": {
+        "createdAt": "2021-02-05T18:17:01Z",
+        "pushedAt": "2022-01-28T12:43:28Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 62,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 5.636
+    },
+    "Provizanta/ansible-role-clang": {
+        "createdAt": "2018-10-27T22:24:48Z",
+        "pushedAt": "2021-07-31T00:09:30Z",
+        "releases": 3,
+        "issues": 1,
+        "commits": 43,
+        "license": "mit",
+        "issue_rate": 0.03,
+        "commit_rate": 1.303
+    },
+    "patrickjahns/ansible-role-promtail": {
+        "createdAt": "2020-02-08T17:06:42Z",
+        "pushedAt": "2022-01-31T03:57:45Z",
+        "releases": 21,
+        "issues": 15,
+        "commits": 177,
+        "license": "mit",
+        "issue_rate": 0.652,
+        "commit_rate": 7.696
+    },
+    "aruba/aos-wlan-ansible-role": {
+        "createdAt": "2020-03-20T22:21:10Z",
+        "pushedAt": "2021-06-04T04:59:22Z",
+        "releases": 2,
+        "issues": 1,
+        "commits": 17,
+        "license": "apache-2.0",
+        "issue_rate": 0.071,
+        "commit_rate": 1.214
+    },
+    "koichirok/ansible-module-authconfig": {
+        "createdAt": "2016-11-29T11:22:58Z",
+        "pushedAt": "2021-10-29T18:25:33Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 26,
+        "license": "gpl-3.0",
+        "issue_rate": 0.034,
+        "commit_rate": 0.441
+    },
+    "andrewrothstein/ansible-ca-certs": {
+        "createdAt": "2017-03-30T00:09:15Z",
+        "pushedAt": "2022-01-09T04:05:49Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 19,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.333
+    },
+    "inverse-inc/ansible-role-gitlab-buildpkg-tools": {
+        "createdAt": "2019-06-21T14:06:20Z",
+        "pushedAt": "2021-10-18T09:25:41Z",
+        "releases": 5,
+        "issues": 2,
+        "commits": 79,
+        "license": "gpl-3.0",
+        "issue_rate": 0.074,
+        "commit_rate": 2.926
+    },
+    "entanet-devops/application": {
+        "createdAt": "2019-04-09T16:36:39Z",
+        "pushedAt": "2021-11-25T19:21:19Z",
+        "releases": 16,
+        "issues": 0,
+        "commits": 36,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.161
+    },
+    "RedHatOfficial/ansible-role-rhel7-rht-ccp": {
+        "createdAt": "2018-06-04T18:05:52Z",
+        "pushedAt": "2021-12-10T01:48:56Z",
+        "releases": 20,
+        "issues": 0,
+        "commits": 93,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.214
+    },
+    "oasis-roles/satellite": {
+        "createdAt": "2018-08-02T14:06:36Z",
+        "pushedAt": "2020-09-01T20:16:24Z",
+        "releases": 0,
+        "issues": 7,
+        "commits": 28,
+        "license": "gpl-3.0",
+        "issue_rate": 0.28,
+        "commit_rate": 1.12
+    },
+    "newtonne/ansible-role-cloudwatchagent": {
+        "createdAt": "2018-11-04T22:06:23Z",
+        "pushedAt": "2021-02-27T18:50:29Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 17,
+        "license": "mit",
+        "issue_rate": 0.037,
+        "commit_rate": 0.63
+    },
+    "oatakan/ansible-role-windows_virtio": {
+        "createdAt": "2019-06-27T22:47:54Z",
+        "pushedAt": "2021-10-05T16:47:50Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 26,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.963
+    },
+    "STEAMULO/ansible-role-steamengine": {
+        "createdAt": "2019-10-11T11:20:09Z",
+        "pushedAt": "2022-01-20T12:39:05Z",
+        "releases": 24,
+        "issues": 0,
+        "commits": 146,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 5.407
+    },
+    "ypsman/ansible-ipv6-disable": {
+        "createdAt": "2017-02-26T12:44:19Z",
+        "pushedAt": "2021-04-15T07:42:47Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 17,
+        "license": "gpl-3.0",
+        "issue_rate": 0.061,
+        "commit_rate": 0.347
+    },
+    "ten7/ansible-role-flight-deck-base": {
+        "createdAt": "2019-04-04T20:46:41Z",
+        "pushedAt": "2021-08-25T16:15:31Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 23,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.821
+    },
+    "darkwizard242/ansible-role-saws": {
+        "createdAt": "2020-06-15T20:04:35Z",
+        "pushedAt": "2021-05-01T16:48:54Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 37,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.7
+    },
+    "darkwizard242/ansible-role-tfsec": {
+        "createdAt": "2020-05-09T21:35:06Z",
+        "pushedAt": "2021-12-12T04:39:49Z",
+        "releases": 66,
+        "issues": 0,
+        "commits": 190,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 10.0
+    },
+    "wcm-io-devops/ansible-jenkins-configuration-as-code": {
+        "createdAt": "2018-11-09T13:09:24Z",
+        "pushedAt": "2022-01-28T09:47:49Z",
+        "releases": 28,
+        "issues": 0,
+        "commits": 78,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.053
+    },
+    "Rheinwerk/ansible-role-update_postfix_config": {
+        "createdAt": "2017-08-18T13:35:12Z",
+        "pushedAt": "2021-10-28T11:44:08Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.4
+    },
+    "wcm-io-devops/ansible-jenkins-service": {
+        "createdAt": "2018-05-24T17:16:21Z",
+        "pushedAt": "2021-03-15T08:36:48Z",
+        "releases": 5,
+        "issues": 1,
+        "commits": 29,
+        "license": "apache-2.0",
+        "issue_rate": 0.03,
+        "commit_rate": 0.879
+    },
+    "Rheinwerk/ansible-role-zulu_jdk": {
+        "createdAt": "2019-05-06T15:57:00Z",
+        "pushedAt": "2021-10-28T14:57:45Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 12,
+        "license": "gpl-3.0",
+        "issue_rate": 0.034,
+        "commit_rate": 0.414
+    },
+    "infothrill/ansible-role-rpi_boot_config": {
+        "createdAt": "2016-10-03T19:41:26Z",
+        "pushedAt": "2022-01-10T17:01:41Z",
+        "releases": 6,
+        "issues": 3,
+        "commits": 116,
+        "license": "mit",
+        "issue_rate": 0.048,
+        "commit_rate": 1.841
+    },
+    "gantsign/ansible_role_antigen_bundles": {
+        "createdAt": "2018-08-14T19:53:33Z",
+        "pushedAt": "2022-01-16T19:17:15Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 47,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.146
+    },
+    "OndrejHome/ansible.pcs-modules-2": {
+        "createdAt": "2017-01-22T20:59:35Z",
+        "pushedAt": "2022-01-13T00:56:56Z",
+        "releases": 0,
+        "issues": 30,
+        "commits": 110,
+        "license": "other",
+        "issue_rate": 0.508,
+        "commit_rate": 1.864
+    },
+    "redhat-sap/sap-hana-deployment": {
+        "createdAt": "2019-11-27T09:48:18Z",
+        "pushedAt": "2021-10-21T10:41:06Z",
+        "releases": 2,
+        "issues": 27,
+        "commits": 92,
+        "license": "apache-2.0",
+        "issue_rate": 1.227,
+        "commit_rate": 4.182
+    },
+    "aruba/aruba-central-ansible-role": {
+        "createdAt": "2020-09-04T17:55:37Z",
+        "pushedAt": "2021-05-19T22:44:11Z",
+        "releases": 4,
+        "issues": 4,
+        "commits": 28,
+        "license": "mit",
+        "issue_rate": 0.5,
+        "commit_rate": 3.5
+    },
+    "robertdebock/ansible-role-cargo": {
+        "createdAt": "2018-07-09T05:03:14Z",
+        "pushedAt": "2022-01-27T16:02:44Z",
+        "releases": 52,
+        "issues": 0,
+        "commits": 272,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.476
+    },
+    "darkwizard242/ansible-role-lazydocker": {
+        "createdAt": "2020-06-06T18:47:25Z",
+        "pushedAt": "2021-04-22T23:33:28Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 43,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.3
+    },
+    "Venafi/ansible-role-venafi": {
+        "createdAt": "2019-01-24T18:10:54Z",
+        "pushedAt": "2021-10-30T00:38:11Z",
+        "releases": 12,
+        "issues": 12,
+        "commits": 328,
+        "license": "apache-2.0",
+        "issue_rate": 0.364,
+        "commit_rate": 9.939
+    },
+    "ypsman/ansible-hosts": {
+        "createdAt": "2017-03-08T21:32:56Z",
+        "pushedAt": "2017-03-08T22:24:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 2,
+        "license": null,
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "oatakan/ansible-role-rhn": {
+        "createdAt": "2017-03-11T06:21:10Z",
+        "pushedAt": "2021-07-06T19:33:28Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 56,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.098
+    },
+    "gantsign/ansible_role_intellij_jdks": {
+        "createdAt": "2018-09-24T12:01:00Z",
+        "pushedAt": "2022-01-22T20:33:55Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.026
+    },
+    "githubixx/ansible-role-harden-linux": {
+        "createdAt": "2016-12-07T20:04:27Z",
+        "pushedAt": "2021-11-03T23:04:59Z",
+        "releases": 0,
+        "issues": 5,
+        "commits": 35,
+        "license": "gpl-3.0",
+        "issue_rate": 0.086,
+        "commit_rate": 0.603
+    },
+    "ruzickap/ansible-role-proxy_settings": {
+        "createdAt": "2014-10-15T15:48:52Z",
+        "pushedAt": "2021-08-02T08:08:55Z",
+        "releases": 5,
+        "issues": 2,
+        "commits": 76,
+        "license": "mit",
+        "issue_rate": 0.025,
+        "commit_rate": 0.938
+    },
+    "transitiv/ansible-role-nodesource": {
+        "createdAt": "2020-02-03T21:49:24Z",
+        "pushedAt": "2021-03-04T12:24:10Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 8,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.667
+    },
+    "Slapper/ansible-victoriametrics-cluster-role": {
+        "createdAt": "2020-04-13T05:51:35Z",
+        "pushedAt": "2021-04-13T06:28:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 15,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.25
+    },
+    "redhat-sap/sap-hostagent": {
+        "createdAt": "2019-11-27T09:47:51Z",
+        "pushedAt": "2021-09-18T11:46:37Z",
+        "releases": 1,
+        "issues": 6,
+        "commits": 51,
+        "license": "apache-2.0",
+        "issue_rate": 0.286,
+        "commit_rate": 2.429
+    },
+    "linux-system-roles/nbde_client": {
+        "createdAt": "2020-06-01T16:06:18Z",
+        "pushedAt": "2022-01-17T21:48:06Z",
+        "releases": 9,
+        "issues": 3,
+        "commits": 86,
+        "license": "mit",
+        "issue_rate": 0.158,
+        "commit_rate": 4.526
+    },
+    "wcm-io-devops/ansible-conga-aem-dispatcher": {
+        "createdAt": "2017-07-10T09:59:28Z",
+        "pushedAt": "2021-03-15T08:44:49Z",
+        "releases": 9,
+        "issues": 2,
+        "commits": 63,
+        "license": "apache-2.0",
+        "issue_rate": 0.045,
+        "commit_rate": 1.432
+    },
+    "joe-speedboat/ansible.ospatch": {
+        "createdAt": "2018-01-12T05:43:30Z",
+        "pushedAt": "2021-12-29T15:13:03Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 73,
+        "license": "gpl-3.0",
+        "issue_rate": 0.043,
+        "commit_rate": 1.553
+    },
+    "ome/ansible-role-rsync-server": {
+        "createdAt": "2017-01-17T12:29:33Z",
+        "pushedAt": "2021-02-04T21:07:44Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 23,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.021,
+        "commit_rate": 0.479
+    },
+    "darkwizard242/ansible-role-terraforming": {
+        "createdAt": "2020-04-08T18:22:34Z",
+        "pushedAt": "2021-09-20T22:11:33Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 45,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.647
+    },
+    "wcm-io-devops/ansible-jenkins-pipeline-library": {
+        "createdAt": "2018-05-24T17:15:41Z",
+        "pushedAt": "2022-01-27T14:41:27Z",
+        "releases": 25,
+        "issues": 4,
+        "commits": 124,
+        "license": "apache-2.0",
+        "issue_rate": 0.091,
+        "commit_rate": 2.818
+    },
+    "OsgiliathEnterprise/ansible-role-libvirt-host": {
+        "createdAt": "2020-04-15T20:01:17Z",
+        "pushedAt": "2021-11-21T15:19:41Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 113,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 5.947
+    },
+    "girder/ansible-role-girder": {
+        "createdAt": "2016-04-06T03:56:08Z",
+        "pushedAt": "2021-03-19T19:24:09Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 82,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.39
+    },
+    "andrewrothstein/ansible-jupyter-profile": {
+        "createdAt": "2016-01-22T01:34:47Z",
+        "pushedAt": "2021-02-01T05:36:48Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 67,
+        "license": "mit",
+        "issue_rate": 0.017,
+        "commit_rate": 1.117
+    },
+    "deekayen/ansible-role-iam_access_simulation": {
+        "createdAt": "2020-10-20T18:24:57Z",
+        "pushedAt": "2021-07-14T14:34:47Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 37,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 4.625
+    },
+    "oatakan/ansible-role-windows_vcenter_template": {
+        "createdAt": "2019-06-28T03:46:50Z",
+        "pushedAt": "2022-01-16T18:27:30Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 80,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.667
+    },
+    "ome/ansible-role-python3-virtualenv": {
+        "createdAt": "2020-03-02T14:32:30Z",
+        "pushedAt": "2021-03-25T13:24:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 1.667
+    },
+    "NVIDIA/ansible-role-enroot": {
+        "createdAt": "2019-08-20T21:25:52Z",
+        "pushedAt": "2022-01-05T17:05:41Z",
+        "releases": 4,
+        "issues": 3,
+        "commits": 41,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.107,
+        "commit_rate": 1.464
+    },
+    "andrewrothstein/ansible-yq": {
+        "createdAt": "2020-03-09T21:28:39Z",
+        "pushedAt": "2021-12-22T03:22:30Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 51,
+        "license": "mit",
+        "issue_rate": 0.048,
+        "commit_rate": 2.429
+    },
+    "softasap/sa-box-bootstrap": {
+        "createdAt": "2015-11-09T16:54:13Z",
+        "pushedAt": "2021-09-23T23:38:44Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 102,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.457
+    },
+    "oatakan/ansible-role-windows_template_build": {
+        "createdAt": "2019-06-27T23:05:54Z",
+        "pushedAt": "2021-11-12T02:49:44Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 161,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 5.75
+    },
+    "dudefellah/ansible-role-mbsync": {
+        "createdAt": "2020-09-20T17:54:58Z",
+        "pushedAt": "2021-05-19T01:21:33Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 7,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "robertdebock/ansible-role-tigervnc": {
+        "createdAt": "2020-02-26T06:29:12Z",
+        "pushedAt": "2022-01-27T12:51:08Z",
+        "releases": 24,
+        "issues": 0,
+        "commits": 247,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 10.739
+    },
+    "idealista/apache_httpd-role": {
+        "createdAt": "2017-11-02T10:50:33Z",
+        "pushedAt": "2022-01-28T11:57:16Z",
+        "releases": 18,
+        "issues": 27,
+        "commits": 205,
+        "license": "apache-2.0",
+        "issue_rate": 0.54,
+        "commit_rate": 4.1
+    },
+    "avinetworks/ansible-role-aviconfig": {
+        "createdAt": "2017-07-13T07:21:08Z",
+        "pushedAt": "2022-01-26T05:25:36Z",
+        "releases": 38,
+        "issues": 3,
+        "commits": 201,
+        "license": "apache-2.0",
+        "issue_rate": 0.056,
+        "commit_rate": 3.722
+    },
+    "CTL-Fed-Security/ansible-freeipa-client": {
+        "createdAt": "2017-07-08T02:30:48Z",
+        "pushedAt": "2021-05-25T17:36:11Z",
+        "releases": 12,
+        "issues": 1,
+        "commits": 98,
+        "license": "agpl-3.0",
+        "issue_rate": 0.022,
+        "commit_rate": 2.13
+    },
+    "wcm-io-devops/ansible-conga-ansible-controlhost": {
+        "createdAt": "2018-08-08T05:58:00Z",
+        "pushedAt": "2021-10-04T14:21:30Z",
+        "releases": 12,
+        "issues": 1,
+        "commits": 72,
+        "license": "apache-2.0",
+        "issue_rate": 0.027,
+        "commit_rate": 1.946
+    },
+    "suzuki-shunsuke/ansible-rbenv-module": {
+        "createdAt": "2017-07-12T10:14:03Z",
+        "pushedAt": "2022-01-15T06:53:30Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 30,
+        "license": "mit",
+        "issue_rate": 0.019,
+        "commit_rate": 0.556
+    },
+    "stackhpc/ansible-role-openhpc": {
+        "createdAt": "2018-12-17T15:03:57Z",
+        "pushedAt": "2022-01-24T15:36:36Z",
+        "releases": 8,
+        "issues": 55,
+        "commits": 339,
+        "license": "apache-2.0",
+        "issue_rate": 1.486,
+        "commit_rate": 9.162
+    },
+    "IDR/ansible-role-openstack-idr-security-groups": {
+        "createdAt": "2017-01-12T14:51:58Z",
+        "pushedAt": "2021-10-15T07:41:51Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 18,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.018,
+        "commit_rate": 0.316
+    },
+    "outsideopen/ansible-role-bigfix-client": {
+        "createdAt": "2018-10-23T16:12:03Z",
+        "pushedAt": "2021-11-19T23:35:58Z",
+        "releases": 8,
+        "issues": 3,
+        "commits": 22,
+        "license": null,
+        "issue_rate": 0.083,
+        "commit_rate": 0.611
+    },
+    "rhevm-qe-automation/ansible-role-seal": {
+        "createdAt": "2017-02-24T16:22:30Z",
+        "pushedAt": "2018-03-07T09:17:06Z",
+        "releases": 5,
+        "issues": 8,
+        "commits": 15,
+        "license": "gpl-3.0",
+        "issue_rate": 0.667,
+        "commit_rate": 1.25
+    },
+    "amtega/ansible_role_proxy_client": {
+        "createdAt": "2018-10-19T09:51:20Z",
+        "pushedAt": "2022-01-26T09:42:24Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 63,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.615
+    },
+    "mprahl/ansible-role-lets-encrypt-route-53": {
+        "createdAt": "2016-12-18T00:21:56Z",
+        "pushedAt": "2021-12-03T14:46:10Z",
+        "releases": 22,
+        "issues": 19,
+        "commits": 69,
+        "license": null,
+        "issue_rate": 0.322,
+        "commit_rate": 1.169
+    },
+    "deekayen/ansible-role-schannel": {
+        "createdAt": "2016-07-08T20:53:58Z",
+        "pushedAt": "2021-07-14T04:20:06Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 68,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 1.133
+    },
+    "Rheinwerk/ansible-role-update_scollector_config": {
+        "createdAt": "2017-08-29T16:02:35Z",
+        "pushedAt": "2021-10-28T11:43:13Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 29,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.592
+    },
+    "bt5e/ansible-role-hashicorp-packer": {
+        "createdAt": "2018-04-10T03:20:25Z",
+        "pushedAt": "2021-04-25T15:20:41Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 8,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.222
+    },
+    "deekayen/ansible-role-nethertrend": {
+        "createdAt": "2020-10-08T14:18:24Z",
+        "pushedAt": "2021-07-14T12:52:34Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 23,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.111,
+        "commit_rate": 2.556
+    },
+    "ypsman/ansible-aws-cli": {
+        "createdAt": "2017-03-06T14:46:24Z",
+        "pushedAt": "2021-01-19T11:00:40Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 9,
+        "license": null,
+        "issue_rate": 0.022,
+        "commit_rate": 0.196
+    },
+    "thorian93/ansible-role-unattended-upgrade": {
+        "createdAt": "2020-02-19T16:11:09Z",
+        "pushedAt": "2021-06-11T12:16:54Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 13,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.867
+    },
+    "andrewrothstein/ansible-swig": {
+        "createdAt": "2016-01-15T18:42:59Z",
+        "pushedAt": "2021-08-23T15:37:26Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 54,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.806
+    },
+    "tschifftner/ansible-role-autoupdate": {
+        "createdAt": "2015-12-22T11:42:07Z",
+        "pushedAt": "2018-07-17T08:08:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 11,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.367
+    },
+    "florianutz/Ubuntu1604-CIS": {
+        "createdAt": "2017-12-30T21:11:45Z",
+        "pushedAt": "2021-09-23T23:27:18Z",
+        "releases": 4,
+        "issues": 16,
+        "commits": 88,
+        "license": "mit",
+        "issue_rate": 0.364,
+        "commit_rate": 2.0
+    },
+    "gamethis/ansible_role_wsus_server": {
+        "createdAt": "2020-09-08T16:18:41Z",
+        "pushedAt": "2021-09-13T12:39:25Z",
+        "releases": 2,
+        "issues": 6,
+        "commits": 68,
+        "license": "mit",
+        "issue_rate": 0.5,
+        "commit_rate": 5.667
+    },
+    "morgangraphics/ansible-role-nvm": {
+        "createdAt": "2017-06-13T19:08:45Z",
+        "pushedAt": "2021-12-04T06:44:44Z",
+        "releases": 2,
+        "issues": 18,
+        "commits": 29,
+        "license": "mit",
+        "issue_rate": 0.34,
+        "commit_rate": 0.547
+    },
+    "Thulium-Drake/ansible-role-branding": {
+        "createdAt": "2020-10-06T15:27:26Z",
+        "pushedAt": "2021-10-04T20:13:48Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 5,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.455
+    },
+    "wilmardo/ansible-role-nrpe-client": {
+        "createdAt": "2017-10-24T23:35:40Z",
+        "pushedAt": "2019-10-21T14:51:14Z",
+        "releases": 3,
+        "issues": 1,
+        "commits": 91,
+        "license": "bsd-3-clause-clear",
+        "issue_rate": 0.043,
+        "commit_rate": 3.957
+    },
+    "Accelize/ansible-role-accelize-drm": {
+        "createdAt": "2019-07-08T08:15:06Z",
+        "pushedAt": "2021-11-29T09:15:27Z",
+        "releases": 18,
+        "issues": 0,
+        "commits": 45,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.607
+    },
+    "robertdebock/ansible-role-update_package_cache": {
+        "createdAt": "2019-07-14T12:23:57Z",
+        "pushedAt": "2022-01-27T13:58:46Z",
+        "releases": 28,
+        "issues": 0,
+        "commits": 196,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.533
+    },
+    "mergermarket/ansible-role-npm-client": {
+        "createdAt": "2020-02-04T16:09:35Z",
+        "pushedAt": "2021-10-22T19:11:37Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 47,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.35
+    },
+    "oasis-roles/ocp_install": {
+        "createdAt": "2019-11-27T18:55:52Z",
+        "pushedAt": "2021-03-22T21:10:28Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 11,
+        "license": "gpl-3.0",
+        "issue_rate": 0.267,
+        "commit_rate": 0.733
+    },
+    "ypsman/ansible-base-packages": {
+        "createdAt": "2017-02-25T15:32:35Z",
+        "pushedAt": "2018-07-04T07:58:02Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 32,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.0
+    },
+    "oatakan/ansible-role-rhel_vcenter_template": {
+        "createdAt": "2019-09-21T05:03:00Z",
+        "pushedAt": "2022-01-16T18:27:00Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 25,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.926
+    },
+    "idealista/prometheus_mysqld_exporter_role": {
+        "createdAt": "2018-03-15T14:46:56Z",
+        "pushedAt": "2021-11-08T11:23:01Z",
+        "releases": 7,
+        "issues": 7,
+        "commits": 53,
+        "license": "apache-2.0",
+        "issue_rate": 0.163,
+        "commit_rate": 1.233
+    },
+    "andrewrothstein/ansible-pkg-upgrade": {
+        "createdAt": "2016-11-09T21:40:39Z",
+        "pushedAt": "2022-01-04T19:22:31Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 29,
+        "license": "mit",
+        "issue_rate": 0.016,
+        "commit_rate": 0.475
+    },
+    "idealista/nodejs-role": {
+        "createdAt": "2017-11-24T10:17:17Z",
+        "pushedAt": "2021-06-02T01:21:52Z",
+        "releases": 3,
+        "issues": 2,
+        "commits": 19,
+        "license": "apache-2.0",
+        "issue_rate": 0.048,
+        "commit_rate": 0.452
+    },
+    "libre-ops/wal2json": {
+        "createdAt": "2019-07-08T22:17:11Z",
+        "pushedAt": "2021-05-04T13:00:11Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 10,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.476
+    },
+    "mhutter/ansible-docker-systemd-service": {
+        "createdAt": "2017-08-25T12:05:21Z",
+        "pushedAt": "2020-10-16T12:43:59Z",
+        "releases": 0,
+        "issues": 12,
+        "commits": 73,
+        "license": "mit",
+        "issue_rate": 0.324,
+        "commit_rate": 1.973
+    },
+    "andrewrothstein/ansible-conda-env": {
+        "createdAt": "2016-12-28T21:19:27Z",
+        "pushedAt": "2022-01-20T19:29:41Z",
+        "releases": 0,
+        "issues": 8,
+        "commits": 61,
+        "license": "mit",
+        "issue_rate": 0.133,
+        "commit_rate": 1.017
+    },
+    "darkwizard242/ansible-role-goofys": {
+        "createdAt": "2020-06-18T15:37:05Z",
+        "pushedAt": "2021-04-18T03:41:25Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 40,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.444
+    },
+    "Oefenweb/ansible-r": {
+        "createdAt": "2015-05-18T19:35:53Z",
+        "pushedAt": "2021-05-17T08:45:06Z",
+        "releases": 27,
+        "issues": 21,
+        "commits": 114,
+        "license": "mit",
+        "issue_rate": 0.292,
+        "commit_rate": 1.583
+    },
+    "redhat-sap/sap-rhsm": {
+        "createdAt": "2019-11-27T09:45:26Z",
+        "pushedAt": "2021-04-08T09:46:22Z",
+        "releases": 1,
+        "issues": 7,
+        "commits": 72,
+        "license": "apache-2.0",
+        "issue_rate": 0.438,
+        "commit_rate": 4.5
+    },
+    "gantsign/ansible_role_sdkman_init": {
+        "createdAt": "2018-08-18T09:01:20Z",
+        "pushedAt": "2022-01-12T21:18:15Z",
+        "releases": 5,
+        "issues": 1,
+        "commits": 47,
+        "license": "apache-2.0",
+        "issue_rate": 0.025,
+        "commit_rate": 1.175
+    },
+    "gantsign/ansible-role-antigen": {
+        "createdAt": "2018-08-04T09:03:03Z",
+        "pushedAt": "2022-01-16T20:33:52Z",
+        "releases": 7,
+        "issues": 6,
+        "commits": 52,
+        "license": "mit",
+        "issue_rate": 0.146,
+        "commit_rate": 1.268
+    },
+    "diodonfrost/ansible-role-amazon-cloudwatch": {
+        "createdAt": "2019-09-06T19:11:35Z",
+        "pushedAt": "2021-09-11T16:51:22Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 37,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.542
+    },
+    "calvinbui/ansible-docker-network": {
+        "createdAt": "2019-01-28T20:40:55Z",
+        "pushedAt": "2019-07-13T17:00:09Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 5,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "idealista/oracle_instant_client_role": {
+        "createdAt": "2020-03-09T15:57:47Z",
+        "pushedAt": "2021-06-02T01:10:29Z",
+        "releases": 3,
+        "issues": 5,
+        "commits": 15,
+        "license": "apache-2.0",
+        "issue_rate": 0.357,
+        "commit_rate": 1.071
+    },
+    "mullholland/ansible-role-repository_codereadybuilder": {
+        "createdAt": "2022-01-16T16:26:16Z",
+        "pushedAt": "2022-01-16T17:30:39Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 3,
+        "license": "mit",
+        "issue_rate": 0,
+        "commit_rate": 0
+    },
+    "indigo-dc/ansible-role-galaxycloud-os": {
+        "createdAt": "2017-03-10T16:30:30Z",
+        "pushedAt": "2021-11-13T07:25:02Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 306,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 5.464
+    },
+    "dt-digitalteam/ansible-couchbase": {
+        "createdAt": "2020-03-22T10:53:29Z",
+        "pushedAt": "2020-09-07T16:12:54Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 38,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 7.6
+    },
+    "robertdebock/ansible-role-mssql": {
+        "createdAt": "2018-02-27T18:44:04Z",
+        "pushedAt": "2022-01-26T13:22:25Z",
+        "releases": 45,
+        "issues": 8,
+        "commits": 400,
+        "license": "apache-2.0",
+        "issue_rate": 0.174,
+        "commit_rate": 8.696
+    },
+    "gantsign/ansible_role_zswap": {
+        "createdAt": "2019-10-06T14:47:54Z",
+        "pushedAt": "2022-01-11T20:17:07Z",
+        "releases": 2,
+        "issues": 1,
+        "commits": 20,
+        "license": "mit",
+        "issue_rate": 0.037,
+        "commit_rate": 0.741
+    },
+    "gantsign/ansible_role_pwquality": {
+        "createdAt": "2018-10-08T09:09:39Z",
+        "pushedAt": "2022-01-16T20:03:36Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 31,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.795
+    },
+    "osx-provisioner/role-homebrew-retry": {
+        "createdAt": "2021-05-04T15:07:45Z",
+        "pushedAt": "2022-01-28T18:08:44Z",
+        "releases": 4,
+        "issues": 2,
+        "commits": 11,
+        "license": "mit",
+        "issue_rate": 0.25,
+        "commit_rate": 1.375
+    },
+    "oVirt/ovirt-ansible-cluster-upgrade": {
+        "createdAt": "2017-11-09T13:59:51Z",
+        "pushedAt": "2021-03-02T03:17:00Z",
+        "releases": 18,
+        "issues": 12,
+        "commits": 93,
+        "license": "apache-2.0",
+        "issue_rate": 0.308,
+        "commit_rate": 2.385
+    },
+    "wcm-io-devops/ansible-conga-maven": {
+        "createdAt": "2017-08-18T10:50:54Z",
+        "pushedAt": "2021-03-15T08:37:21Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 26,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.619
+    },
+    "bbatsche/Ansible-MySQL-Role": {
+        "createdAt": "2016-01-07T21:04:00Z",
+        "pushedAt": "2020-02-28T20:07:55Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 266,
+        "license": "mit",
+        "issue_rate": 0.02,
+        "commit_rate": 5.429
+    },
+    "gekmihesg/ansible-openwrt": {
+        "createdAt": "2017-07-31T18:23:31Z",
+        "pushedAt": "2022-01-04T07:09:13Z",
+        "releases": 0,
+        "issues": 25,
+        "commits": 57,
+        "license": "gpl-3.0",
+        "issue_rate": 0.472,
+        "commit_rate": 1.075
+    },
+    "Rheinwerk/ansible-role-aws_jdk": {
+        "createdAt": "2021-05-12T20:32:04Z",
+        "pushedAt": "2021-10-28T11:52:48Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 4,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.8
+    },
+    "systemli/ansible-role-needrestart": {
+        "createdAt": "2017-02-10T22:32:03Z",
+        "pushedAt": "2022-01-30T14:25:44Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 81,
+        "license": "gpl-3.0",
+        "issue_rate": 0.034,
+        "commit_rate": 1.373
+    },
+    "wcm-io-devops/ansible-conga-host-facts": {
+        "createdAt": "2018-08-03T09:20:49Z",
+        "pushedAt": "2021-10-04T13:53:43Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 34,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.895
+    },
+    "robertdebock/ansible-role-ara": {
+        "createdAt": "2018-03-31T10:31:28Z",
+        "pushedAt": "2022-01-27T10:05:43Z",
+        "releases": 60,
+        "issues": 5,
+        "commits": 387,
+        "license": "apache-2.0",
+        "issue_rate": 0.111,
+        "commit_rate": 8.6
+    },
+    "f5devcentral/ansible-role-bigiq_pinning_deploy_objects": {
+        "createdAt": "2020-08-05T18:48:21Z",
+        "pushedAt": "2021-01-29T04:10:50Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 29,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 5.8
+    },
+    "nusenu/ansible-relayor": {
+        "createdAt": "2015-02-27T18:37:21Z",
+        "pushedAt": "2022-01-17T08:48:12Z",
+        "releases": 22,
+        "issues": 183,
+        "commits": 502,
+        "license": "gpl-3.0",
+        "issue_rate": 2.232,
+        "commit_rate": 6.122
+    },
+    "ome/ansible-role-nfs-share": {
+        "createdAt": "2017-01-12T14:47:26Z",
+        "pushedAt": "2021-02-06T21:46:55Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 23,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.479
+    },
+    "darkwizard242/ansible-role-checkov": {
+        "createdAt": "2020-06-13T17:29:43Z",
+        "pushedAt": "2021-04-11T02:12:56Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 35,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.889
+    },
+    "jtprogru/ansible-role-install-atop": {
+        "createdAt": "2021-02-27T17:15:39Z",
+        "pushedAt": "2021-09-03T13:41:09Z",
+        "releases": 4,
+        "issues": 1,
+        "commits": 13,
+        "license": "wtfpl",
+        "issue_rate": 0.167,
+        "commit_rate": 2.167
+    },
+    "trombik/ansible-role-sysctl": {
+        "createdAt": "2017-12-06T05:35:49Z",
+        "pushedAt": "2021-10-05T03:30:51Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 34,
+        "license": "isc",
+        "issue_rate": 0.0,
+        "commit_rate": 0.756
+    },
+    "CyVerse-Ansible/ansible-rabbitmq-vhost": {
+        "createdAt": "2016-11-04T16:22:57Z",
+        "pushedAt": "2021-06-06T02:42:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 67,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 1.218
+    },
+    "robertdebock/ansible-role-elastic_repo": {
+        "createdAt": "2021-10-03T04:44:20Z",
+        "pushedAt": "2022-01-27T18:13:53Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 17,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 5.667
+    },
+    "gantsign/ansible-role-git-credential-manager": {
+        "createdAt": "2018-08-11T19:51:46Z",
+        "pushedAt": "2022-01-12T21:18:41Z",
+        "releases": 10,
+        "issues": 1,
+        "commits": 56,
+        "license": "mit",
+        "issue_rate": 0.024,
+        "commit_rate": 1.366
+    },
+    "gabops/ansible-role-packages-os": {
+        "createdAt": "2019-09-01T19:45:22Z",
+        "pushedAt": "2021-09-23T23:27:32Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 62,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.583
+    },
+    "giner/ansible-role-tfenv": {
+        "createdAt": "2021-08-31T02:03:32Z",
+        "pushedAt": "2022-01-26T22:25:04Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 16,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 4.0
+    },
+    "gantsign/ansible-role-keyboard": {
+        "createdAt": "2016-07-05T18:10:27Z",
+        "pushedAt": "2022-01-22T19:45:15Z",
+        "releases": 10,
+        "issues": 4,
+        "commits": 102,
+        "license": "mit",
+        "issue_rate": 0.061,
+        "commit_rate": 1.545
+    },
+    "Rheinwerk/ansible-role-update_rs_collector_config": {
+        "createdAt": "2017-09-06T10:10:16Z",
+        "pushedAt": "2021-10-28T11:43:44Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 25,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.51
+    },
+    "roles-ansible/ansible_role_install_firefox": {
+        "createdAt": "2019-04-25T07:09:23Z",
+        "pushedAt": "2021-03-15T10:57:57Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 32,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.455
+    },
+    "tulibraries/ansible-role-shibboleth-sp": {
+        "createdAt": "2019-03-18T18:53:39Z",
+        "pushedAt": "2021-12-06T19:49:18Z",
+        "releases": 5,
+        "issues": 2,
+        "commits": 22,
+        "license": null,
+        "issue_rate": 0.062,
+        "commit_rate": 0.688
+    },
+    "Appsilon/ansible-rstudio-package-manager": {
+        "createdAt": "2021-10-08T12:30:01Z",
+        "pushedAt": "2022-01-12T10:46:46Z",
+        "releases": 11,
+        "issues": 1,
+        "commits": 24,
+        "license": "mit",
+        "issue_rate": 0.333,
+        "commit_rate": 8.0
+    },
+    "sorrowless/ansible_tls": {
+        "createdAt": "2018-08-18T15:15:37Z",
+        "pushedAt": "2021-11-07T22:15:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 26,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.684
+    },
+    "andrewrothstein/ansible-sops": {
+        "createdAt": "2019-08-01T15:41:03Z",
+        "pushedAt": "2021-12-08T13:46:44Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 16,
+        "license": "mit",
+        "issue_rate": 0.036,
+        "commit_rate": 0.571
+    },
+    "coopdevs/odoo-role": {
+        "createdAt": "2018-04-04T18:25:20Z",
+        "pushedAt": "2022-01-09T17:38:30Z",
+        "releases": 49,
+        "issues": 34,
+        "commits": 229,
+        "license": "gpl-3.0",
+        "issue_rate": 0.756,
+        "commit_rate": 5.089
+    },
+    "theforeman/ansible-foreman_scap_client": {
+        "createdAt": "2018-07-04T11:37:43Z",
+        "pushedAt": "2021-09-23T23:24:09Z",
+        "releases": 0,
+        "issues": 8,
+        "commits": 65,
+        "license": "gpl-3.0",
+        "issue_rate": 0.211,
+        "commit_rate": 1.711
+    },
+    "idealista/timescaledb_role": {
+        "createdAt": "2020-12-03T08:41:46Z",
+        "pushedAt": "2021-03-05T12:45:13Z",
+        "releases": 8,
+        "issues": 5,
+        "commits": 56,
+        "license": "apache-2.0",
+        "issue_rate": 1.667,
+        "commit_rate": 18.667
+    },
+    "fourforbusiness/ansible-role-mysql-prepare-db": {
+        "createdAt": "2018-03-07T11:49:07Z",
+        "pushedAt": "2018-05-07T08:57:28Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 37,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 37.0
+    },
+    "avinetworks/ansible-role-avicontroller-csp": {
+        "createdAt": "2017-12-15T20:58:16Z",
+        "pushedAt": "2021-09-27T07:01:23Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 52,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.156
+    },
+    "Rheinwerk/ansible-role-scollector": {
+        "createdAt": "2017-06-19T14:47:53Z",
+        "pushedAt": "2022-01-17T08:11:15Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 17,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.315
+    },
+    "itnok/ansible-role-install-prometheus-node-exporter": {
+        "createdAt": "2020-08-05T18:47:50Z",
+        "pushedAt": "2021-06-16T01:26:18Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 22,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 2.2
+    },
+    "Ableton/ansible-role-sccache": {
+        "createdAt": "2021-08-25T17:12:53Z",
+        "pushedAt": "2022-01-17T09:54:45Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 77,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 19.25
+    },
+    "Accelize/ansible-role-xilinx_xrt": {
+        "createdAt": "2019-07-17T15:14:14Z",
+        "pushedAt": "2022-01-12T14:49:24Z",
+        "releases": 24,
+        "issues": 0,
+        "commits": 39,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.345
+    },
+    "nl2go/ansible-role-clickhouse-backup": {
+        "createdAt": "2020-07-07T08:30:35Z",
+        "pushedAt": "2021-10-28T10:18:54Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 66,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.4
+    },
+    "gantsign/ansible-role-audio": {
+        "createdAt": "2016-07-05T21:23:42Z",
+        "pushedAt": "2022-01-13T23:05:52Z",
+        "releases": 10,
+        "issues": 2,
+        "commits": 90,
+        "license": "mit",
+        "issue_rate": 0.03,
+        "commit_rate": 1.364
+    },
+    "Rheinwerk/ansible-role-update_haproxy_config": {
+        "createdAt": "2017-11-16T09:50:16Z",
+        "pushedAt": "2021-10-28T11:44:53Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 53,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.128
+    },
+    "mergermarket/ansible-role-ssh-users-sync": {
+        "createdAt": "2018-03-06T15:50:58Z",
+        "pushedAt": "2021-10-22T19:23:25Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 12,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.279
+    },
+    "Oefenweb/ansible-autossh-tunnel-client": {
+        "createdAt": "2015-08-14T13:06:27Z",
+        "pushedAt": "2021-06-25T20:23:40Z",
+        "releases": 13,
+        "issues": 1,
+        "commits": 92,
+        "license": "mit",
+        "issue_rate": 0.014,
+        "commit_rate": 1.314
+    },
+    "webarchitect609/ansible-role-jet-brains-toolbox": {
+        "createdAt": "2019-04-14T09:28:15Z",
+        "pushedAt": "2021-11-09T12:06:02Z",
+        "releases": 3,
+        "issues": 3,
+        "commits": 20,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.1,
+        "commit_rate": 0.667
+    },
+    "Oefenweb/ansible-duply-backup": {
+        "createdAt": "2015-05-01T10:52:54Z",
+        "pushedAt": "2021-06-25T20:24:02Z",
+        "releases": 11,
+        "issues": 5,
+        "commits": 119,
+        "license": "mit",
+        "issue_rate": 0.068,
+        "commit_rate": 1.63
+    },
+    "epfl-si/ansible-module-openshift": {
+        "createdAt": "2019-03-20T15:47:39Z",
+        "pushedAt": "2021-11-04T15:50:32Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 101,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 3.258
+    },
+    "Rheinwerk/ansible-role-ops_tools": {
+        "createdAt": "2016-06-29T12:51:59Z",
+        "pushedAt": "2021-10-28T12:33:52Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 26,
+        "license": "gpl-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.413
+    },
+    "nl2go/ansible-role-clickhouse": {
+        "createdAt": "2020-07-01T14:55:15Z",
+        "pushedAt": "2021-06-07T11:52:13Z",
+        "releases": 23,
+        "issues": 1,
+        "commits": 135,
+        "license": "mit",
+        "issue_rate": 0.091,
+        "commit_rate": 12.273
+    },
+    "wcm-io-devops/ansible-aem-service": {
+        "createdAt": "2017-07-10T11:58:18Z",
+        "pushedAt": "2021-03-15T08:45:23Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 47,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.068
+    },
+    "Rheinwerk/ansible-role-set_server_timezone": {
+        "createdAt": "2016-11-18T11:36:03Z",
+        "pushedAt": "2021-10-28T11:46:30Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 10,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.169
+    },
+    "robertdebock/ansible-role-at": {
+        "createdAt": "2018-05-30T04:56:55Z",
+        "pushedAt": "2022-01-27T13:25:24Z",
+        "releases": 49,
+        "issues": 0,
+        "commits": 269,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.256
+    },
+    "andrewmackett/ansible-splunk-common": {
+        "createdAt": "2018-09-30T11:26:33Z",
+        "pushedAt": "2019-11-17T11:02:03Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 16,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.231
+    },
+    "gantsign/ansible-role-visual-studio-code-extensions": {
+        "createdAt": "2016-11-04T14:10:09Z",
+        "pushedAt": "2022-01-12T21:48:30Z",
+        "releases": 12,
+        "issues": 6,
+        "commits": 103,
+        "license": "mit",
+        "issue_rate": 0.097,
+        "commit_rate": 1.661
+    },
+    "Rheinwerk/ansible-role-ntpdate_cron": {
+        "createdAt": "2016-11-16T10:38:15Z",
+        "pushedAt": "2021-10-28T11:48:40Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 10,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.169
+    },
+    "darkwizard242/ansible-role-speedtest": {
+        "createdAt": "2020-11-09T00:28:11Z",
+        "pushedAt": "2021-07-06T20:34:26Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 46,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 6.571
+    },
+    "robertdebock/ansible-role-tftpd": {
+        "createdAt": "2017-11-10T15:56:21Z",
+        "pushedAt": "2022-01-27T12:50:51Z",
+        "releases": 40,
+        "issues": 0,
+        "commits": 368,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 7.36
+    },
+    "devon-mar/ansible-role-step-cert": {
+        "createdAt": "2021-09-16T07:17:00Z",
+        "pushedAt": "2022-01-30T05:59:20Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 14,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 3.5
+    },
+    "ntd/ansible-role-nut": {
+        "createdAt": "2016-09-20T18:31:23Z",
+        "pushedAt": "2021-04-18T19:49:00Z",
+        "releases": 0,
+        "issues": 5,
+        "commits": 31,
+        "license": "mit",
+        "issue_rate": 0.093,
+        "commit_rate": 0.574
+    },
+    "stackbuilders/sb-debian-base": {
+        "createdAt": "2015-11-04T21:27:17Z",
+        "pushedAt": "2021-10-22T17:58:49Z",
+        "releases": 30,
+        "issues": 36,
+        "commits": 186,
+        "license": "mit",
+        "issue_rate": 0.507,
+        "commit_rate": 2.62
+    },
+    "wcm-io-devops/ansible-conga-aem-smoke-test": {
+        "createdAt": "2018-01-10T17:18:57Z",
+        "pushedAt": "2021-09-21T13:18:03Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 40,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.909
+    },
+    "andrewrothstein/ansible-k3d": {
+        "createdAt": "2020-01-27T21:08:37Z",
+        "pushedAt": "2022-01-03T16:59:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 41,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.783
+    },
+    "idealista/prometheus_node_exporter_role": {
+        "createdAt": "2017-03-13T10:23:23Z",
+        "pushedAt": "2021-09-28T09:08:16Z",
+        "releases": 17,
+        "issues": 15,
+        "commits": 142,
+        "license": "apache-2.0",
+        "issue_rate": 0.278,
+        "commit_rate": 2.63
+    },
+    "RedHatOfficial/ansible-role-rhel8-pci-dss": {
+        "createdAt": "2019-05-11T02:12:05Z",
+        "pushedAt": "2021-12-10T01:46:13Z",
+        "releases": 15,
+        "issues": 0,
+        "commits": 50,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.613
+    },
+    "agoloncser/ansible-role-ubuntu-ppa": {
+        "createdAt": "2021-06-28T12:53:25Z",
+        "pushedAt": "2021-11-11T15:05:06Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 26,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 6.5
+    },
+    "jimbo8098/windows-docker-role": {
+        "createdAt": "2021-03-15T17:59:11Z",
+        "pushedAt": "2021-09-09T19:25:10Z",
+        "releases": 0,
+        "issues": 4,
+        "commits": 78,
+        "license": null,
+        "issue_rate": 0.8,
+        "commit_rate": 15.6
+    },
+    "jtprogru/ansible-role-install-base-soft": {
+        "createdAt": "2019-07-17T11:09:36Z",
+        "pushedAt": "2021-09-03T12:37:53Z",
+        "releases": 10,
+        "issues": 1,
+        "commits": 51,
+        "license": "wtfpl",
+        "issue_rate": 0.04,
+        "commit_rate": 2.04
+    },
+    "OsgiliathEnterprise/ansible-virtualization": {
+        "createdAt": "2020-04-14T16:27:36Z",
+        "pushedAt": "2021-11-21T15:28:37Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 73,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 3.842
+    },
+    "thorian93/ansible-role-webserver": {
+        "createdAt": "2020-05-03T11:19:04Z",
+        "pushedAt": "2022-01-15T14:02:46Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 25,
+        "license": "mit",
+        "issue_rate": 0.05,
+        "commit_rate": 1.25
+    },
+    "wcm-io-devops/ansible-conga-aem-cms": {
+        "createdAt": "2017-07-10T09:45:44Z",
+        "pushedAt": "2021-03-19T14:09:19Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 58,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.318
+    },
+    "Lusitaniae/ansible-role-prometheus-exporter-installer": {
+        "createdAt": "2017-10-23T13:26:04Z",
+        "pushedAt": "2022-01-05T18:01:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 24,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.48
+    },
+    "Rheinwerk/ansible-role-update_consul_config": {
+        "createdAt": "2017-08-11T09:24:11Z",
+        "pushedAt": "2021-10-29T11:40:02Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 57,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.14
+    },
+    "Ableton/ansible-role-amtool": {
+        "createdAt": "2021-08-05T14:50:43Z",
+        "pushedAt": "2022-01-17T16:23:51Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 95,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 19.0
+    },
+    "trombik/ansible-role-sensu_go_agent": {
+        "createdAt": "2020-04-15T23:00:04Z",
+        "pushedAt": "2021-09-28T01:45:09Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 24,
+        "license": "isc",
+        "issue_rate": 0.0,
+        "commit_rate": 1.412
+    },
+    "Rheinwerk/ansible-role-haproxy17": {
+        "createdAt": "2017-07-17T12:55:48Z",
+        "pushedAt": "2021-10-28T11:51:34Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.392
+    },
+    "naftulikay/ansible-role-degoss": {
+        "createdAt": "2017-02-14T23:24:27Z",
+        "pushedAt": "2021-02-05T02:44:50Z",
+        "releases": 19,
+        "issues": 20,
+        "commits": 80,
+        "license": "other",
+        "issue_rate": 0.426,
+        "commit_rate": 1.702
+    },
+    "redhat-sap/sap-s4hana-deployment": {
+        "createdAt": "2020-01-16T13:51:37Z",
+        "pushedAt": "2021-04-08T09:47:55Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 38,
+        "license": "apache-2.0",
+        "issue_rate": 0.214,
+        "commit_rate": 2.714
+    },
+    "Ableton/ansible-role-rustup-init": {
+        "createdAt": "2021-08-25T17:10:42Z",
+        "pushedAt": "2022-01-31T01:38:43Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 83,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 16.6
+    },
+    "gantsign/ansible-role-gnome-proxy": {
+        "createdAt": "2016-10-01T15:48:19Z",
+        "pushedAt": "2022-01-13T23:06:49Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 65,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.032
+    },
+    "GROG/ansible-role-poweroff": {
+        "createdAt": "2015-09-26T20:06:11Z",
+        "pushedAt": "2016-07-19T12:27:45Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 15,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.667
+    },
+    "OsgiliathEnterprise/ansible-role-hostname": {
+        "createdAt": "2020-05-18T16:10:03Z",
+        "pushedAt": "2021-11-21T15:17:48Z",
+        "releases": 10,
+        "issues": 0,
+        "commits": 203,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 11.278
+    },
+    "Rheinwerk/ansible-role-haproxy22": {
+        "createdAt": "2021-05-28T14:01:20Z",
+        "pushedAt": "2021-10-28T11:50:19Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 24,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 6.0
+    },
+    "wcm-io-devops/ansible-jenkins-plugins": {
+        "createdAt": "2018-05-24T17:15:16Z",
+        "pushedAt": "2021-03-15T08:36:43Z",
+        "releases": 10,
+        "issues": 3,
+        "commits": 51,
+        "license": "apache-2.0",
+        "issue_rate": 0.091,
+        "commit_rate": 1.545
+    },
+    "tschifftner/ansible-role-sury": {
+        "createdAt": "2017-08-18T11:16:23Z",
+        "pushedAt": "2020-02-12T18:32:46Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 16,
+        "license": "mit",
+        "issue_rate": 0.034,
+        "commit_rate": 0.552
+    },
+    "RedHatOfficial/ansible-role-rhel8-cui": {
+        "createdAt": "2019-05-11T02:12:02Z",
+        "pushedAt": "2021-12-10T01:46:24Z",
+        "releases": 15,
+        "issues": 0,
+        "commits": 47,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.516
+    },
+    "Oefenweb/ansible-git-lfs": {
+        "createdAt": "2019-03-14T15:49:41Z",
+        "pushedAt": "2022-01-17T14:44:38Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 53,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.559
+    },
+    "Ableton/ansible-role-jenkins-jcasc": {
+        "createdAt": "2020-07-31T15:18:11Z",
+        "pushedAt": "2022-01-28T09:27:12Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 385,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 22.647
+    },
+    "robertdebock/ansible-role-rpmfusion": {
+        "createdAt": "2019-08-21T06:55:31Z",
+        "pushedAt": "2022-01-27T12:29:24Z",
+        "releases": 30,
+        "issues": 2,
+        "commits": 227,
+        "license": "apache-2.0",
+        "issue_rate": 0.069,
+        "commit_rate": 7.828
+    },
+    "elreydetoda/ansible-role-textbelt": {
+        "createdAt": "2020-09-18T09:01:56Z",
+        "pushedAt": "2021-06-12T15:04:26Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 13,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.625
+    },
+    "andrewrothstein/ansible-proxify": {
+        "createdAt": "2015-10-14T13:30:17Z",
+        "pushedAt": "2022-01-19T23:05:08Z",
+        "releases": 0,
+        "issues": 3,
+        "commits": 72,
+        "license": "mit",
+        "issue_rate": 0.04,
+        "commit_rate": 0.96
+    },
+    "lukasic/ansible-role-ispconfig": {
+        "createdAt": "2020-12-25T22:58:10Z",
+        "pushedAt": "2021-11-11T23:57:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 20,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.0
+    },
+    "gantsign/ansible-role-intellij-plugins": {
+        "createdAt": "2016-11-04T10:23:58Z",
+        "pushedAt": "2022-01-22T19:42:26Z",
+        "releases": 18,
+        "issues": 1,
+        "commits": 102,
+        "license": "mit",
+        "issue_rate": 0.016,
+        "commit_rate": 1.645
+    },
+    "darkwizard242/ansible-role-simplescreenrecorder": {
+        "createdAt": "2020-04-15T22:29:02Z",
+        "pushedAt": "2021-05-01T16:51:19Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 41,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.417
+    },
+    "Rheinwerk/ansible-role-haproxy18": {
+        "createdAt": "2019-03-18T13:25:59Z",
+        "pushedAt": "2021-12-21T08:51:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 14,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.424
+    },
+    "Rheinwerk/ansible-role-install_cd_build_artifacts": {
+        "createdAt": "2018-12-10T12:14:13Z",
+        "pushedAt": "2021-10-28T11:51:13Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 17,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.5
+    },
+    "idealista/redis_role": {
+        "createdAt": "2017-04-20T09:01:54Z",
+        "pushedAt": "2021-06-02T00:35:07Z",
+        "releases": 20,
+        "issues": 36,
+        "commits": 229,
+        "license": "apache-2.0",
+        "issue_rate": 0.735,
+        "commit_rate": 4.673
+    },
+    "idiv-biodiversity/ansible-role-systemd-timesyncd": {
+        "createdAt": "2018-09-26T11:11:29Z",
+        "pushedAt": "2021-07-06T09:05:23Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 13,
+        "license": "mit",
+        "issue_rate": 0.061,
+        "commit_rate": 0.394
+    },
+    "lenovo/ansible-role-lxca-config": {
+        "createdAt": "2018-03-14T13:22:33Z",
+        "pushedAt": "2021-07-15T10:14:01Z",
+        "releases": 4,
+        "issues": 2,
+        "commits": 30,
+        "license": "bsd-3-clause",
+        "issue_rate": 0.05,
+        "commit_rate": 0.75
+    },
+    "gantsign/ansible_role_ctop": {
+        "createdAt": "2018-08-26T11:06:56Z",
+        "pushedAt": "2022-01-22T20:00:13Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 49,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.225
+    },
+    "gantsign/ansible-role-maven-notifier": {
+        "createdAt": "2016-05-05T20:00:06Z",
+        "pushedAt": "2022-01-12T21:44:44Z",
+        "releases": 17,
+        "issues": 9,
+        "commits": 137,
+        "license": "mit",
+        "issue_rate": 0.132,
+        "commit_rate": 2.015
+    },
+    "darkwizard242/ansible-role-awsvault": {
+        "createdAt": "2020-03-27T16:36:35Z",
+        "pushedAt": "2022-01-19T23:27:56Z",
+        "releases": 9,
+        "issues": 0,
+        "commits": 70,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.333
+    },
+    "nephelaiio/ansible-role-acme-certificate-cloudflare": {
+        "createdAt": "2019-05-16T21:16:20Z",
+        "pushedAt": "2021-08-25T17:45:34Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 61,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.259
+    },
+    "cytopia/ansible-role-cloudformation": {
+        "createdAt": "2018-01-20T11:09:59Z",
+        "pushedAt": "2019-06-15T16:57:20Z",
+        "releases": 1,
+        "issues": 3,
+        "commits": 54,
+        "license": "mit",
+        "issue_rate": 0.188,
+        "commit_rate": 3.375
+    },
+    "RedHatOfficial/ansible-role-rhel7-stig": {
+        "createdAt": "2018-06-04T18:04:40Z",
+        "pushedAt": "2022-01-20T17:53:53Z",
+        "releases": 21,
+        "issues": 0,
+        "commits": 82,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.907
+    },
+    "robertdebock/ansible-role-auditd": {
+        "createdAt": "2019-06-18T13:53:52Z",
+        "pushedAt": "2022-01-27T10:43:17Z",
+        "releases": 55,
+        "issues": 7,
+        "commits": 265,
+        "license": "apache-2.0",
+        "issue_rate": 0.226,
+        "commit_rate": 8.548
+    },
+    "mergermarket/ansible-role-update-notifications": {
+        "createdAt": "2018-03-05T14:48:14Z",
+        "pushedAt": "2022-01-20T07:11:37Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 48,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.043
+    },
+    "wcm-io-devops/ansible-aem-dispatcher-flush": {
+        "createdAt": "2017-12-07T15:47:36Z",
+        "pushedAt": "2021-03-15T08:44:52Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 38,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.974
+    },
+    "trombik/ansible-role-language_ruby": {
+        "createdAt": "2017-12-06T06:46:39Z",
+        "pushedAt": "2021-06-14T06:49:39Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 28,
+        "license": "isc",
+        "issue_rate": 0.0,
+        "commit_rate": 0.667
+    },
+    "ome/ansible-role-anonymous-ftp": {
+        "createdAt": "2018-03-14T13:38:13Z",
+        "pushedAt": "2021-02-04T21:42:38Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 22,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.647
+    },
+    "wcm-io-devops/ansible-conga-facts": {
+        "createdAt": "2017-07-10T09:30:57Z",
+        "pushedAt": "2021-03-15T08:45:13Z",
+        "releases": 4,
+        "issues": 0,
+        "commits": 68,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.545
+    },
+    "spk83/ansible-gitlab-config": {
+        "createdAt": "2017-02-27T18:28:45Z",
+        "pushedAt": "2021-09-24T01:37:24Z",
+        "releases": 7,
+        "issues": 2,
+        "commits": 23,
+        "license": "mit",
+        "issue_rate": 0.037,
+        "commit_rate": 0.426
+    },
+    "fradee/general": {
+        "createdAt": "2016-04-12T18:34:59Z",
+        "pushedAt": "2019-11-26T00:04:34Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 13,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.302
+    },
+    "ypsman/ansible-resolv": {
+        "createdAt": "2017-03-02T10:38:58Z",
+        "pushedAt": "2018-08-08T17:19:51Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 12,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.706
+    },
+    "delphix/ansible-target-host": {
+        "createdAt": "2018-02-23T16:11:09Z",
+        "pushedAt": "2020-09-16T17:46:19Z",
+        "releases": 4,
+        "issues": 5,
+        "commits": 52,
+        "license": "apache-2.0",
+        "issue_rate": 0.167,
+        "commit_rate": 1.733
+    },
+    "mrlesmithjr/ansible-es-apm-server": {
+        "createdAt": "2020-06-20T18:59:36Z",
+        "pushedAt": "2021-09-23T23:34:11Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 4,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.267
+    },
+    "trombik/ansible-role-cfssl": {
+        "createdAt": "2020-05-24T00:25:59Z",
+        "pushedAt": "2021-11-26T02:15:58Z",
+        "releases": 10,
+        "issues": 1,
+        "commits": 55,
+        "license": "isc",
+        "issue_rate": 0.056,
+        "commit_rate": 3.056
+    },
+    "darkwizard242/ansible-role-openjdk8": {
+        "createdAt": "2019-09-10T23:02:25Z",
+        "pushedAt": "2021-05-01T02:58:00Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 41,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.158
+    },
+    "florianutz/Ubuntu1804-CIS": {
+        "createdAt": "2018-12-12T20:28:30Z",
+        "pushedAt": "2021-12-13T19:58:53Z",
+        "releases": 10,
+        "issues": 32,
+        "commits": 85,
+        "license": "mit",
+        "issue_rate": 0.889,
+        "commit_rate": 2.361
+    },
+    "wcm-io-devops/ansible-aem-dispatcher": {
+        "createdAt": "2017-07-10T09:18:27Z",
+        "pushedAt": "2021-03-15T08:36:52Z",
+        "releases": 6,
+        "issues": 0,
+        "commits": 76,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.727
+    },
+    "chaos-bodensee/role_install_workstaton_packages": {
+        "createdAt": "2018-11-14T10:50:01Z",
+        "pushedAt": "2021-03-15T16:03:45Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 102,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.643
+    },
+    "PegaSysEng/ansible-role-besu": {
+        "createdAt": "2021-04-19T22:59:08Z",
+        "pushedAt": "2021-05-31T23:01:57Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 6,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 6.0
+    },
+    "Ableton/ansible-role-pkg-mgr-path": {
+        "createdAt": "2021-08-25T15:27:57Z",
+        "pushedAt": "2022-01-17T10:28:58Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 79,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 19.75
+    },
+    "Rheinwerk/ansible-role-update_sshd_config": {
+        "createdAt": "2019-02-11T13:41:20Z",
+        "pushedAt": "2021-10-28T14:58:36Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 7,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.219
+    },
+    "andrewrothstein/ansible-sonarscannercli": {
+        "createdAt": "2019-07-01T19:51:18Z",
+        "pushedAt": "2022-01-04T19:01:28Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 30,
+        "license": "mit",
+        "issue_rate": 0.067,
+        "commit_rate": 1.0
+    },
+    "maxhoesel/ansible-role-postfix_nullclient": {
+        "createdAt": "2021-08-02T19:21:42Z",
+        "pushedAt": "2022-01-24T19:00:04Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 13,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 2.6
+    },
+    "stdevel/ansible-drawio": {
+        "createdAt": "2020-09-04T20:46:09Z",
+        "pushedAt": "2021-07-02T06:23:48Z",
+        "releases": 3,
+        "issues": 2,
+        "commits": 16,
+        "license": "apache-2.0",
+        "issue_rate": 0.222,
+        "commit_rate": 1.778
+    },
+    "stackhpc/ansible-role-systemd-networkd": {
+        "createdAt": "2021-03-04T15:21:04Z",
+        "pushedAt": "2021-04-22T08:23:01Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 16,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 16.0
+    },
+    "idealista/zookeeper_role": {
+        "createdAt": "2016-12-21T12:42:42Z",
+        "pushedAt": "2022-01-12T13:27:00Z",
+        "releases": 13,
+        "issues": 24,
+        "commits": 144,
+        "license": null,
+        "issue_rate": 0.4,
+        "commit_rate": 2.4
+    },
+    "tobias-richter/ansible-apt-config": {
+        "createdAt": "2020-05-05T11:33:03Z",
+        "pushedAt": "2021-10-13T19:19:26Z",
+        "releases": 5,
+        "issues": 0,
+        "commits": 26,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.529
+    },
+    "gantsign/ansible_role_git_user": {
+        "createdAt": "2018-08-26T15:21:25Z",
+        "pushedAt": "2022-01-16T20:22:08Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 46,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 1.15
+    },
+    "asg1612/ansible-role-prom-grafana": {
+        "createdAt": "2018-10-08T07:09:54Z",
+        "pushedAt": "2021-09-23T23:23:13Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 18,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 0.514
+    },
+    "robertdebock/ansible-role-spamassassin": {
+        "createdAt": "2018-01-04T18:17:18Z",
+        "pushedAt": "2022-01-27T12:39:03Z",
+        "releases": 46,
+        "issues": 2,
+        "commits": 324,
+        "license": "apache-2.0",
+        "issue_rate": 0.042,
+        "commit_rate": 6.75
+    },
+    "Thulium-Drake/ansible-role-nginx_revproxy": {
+        "createdAt": "2019-11-26T07:36:59Z",
+        "pushedAt": "2021-10-19T14:40:44Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 57,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 2.591
+    },
+    "Rheinwerk/ansible-role-update_consul_template_config": {
+        "createdAt": "2017-08-24T16:57:20Z",
+        "pushedAt": "2021-10-28T14:59:22Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 9,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.18
+    },
+    "darkwizard242/ansible-role-cloc": {
+        "createdAt": "2020-09-17T16:42:06Z",
+        "pushedAt": "2021-04-11T02:14:16Z",
+        "releases": 3,
+        "issues": 0,
+        "commits": 33,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 5.5
+    },
+    "Rheinwerk/ansible-role-sysdig-user-audit": {
+        "createdAt": "2018-08-13T15:50:54Z",
+        "pushedAt": "2021-10-28T15:00:25Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 9,
+        "license": "gpl-3.0",
+        "issue_rate": 0.0,
+        "commit_rate": 0.237
+    },
+    "pro-vision/ansible-jenkins-pv-pipeline-library": {
+        "createdAt": "2018-11-07T11:06:37Z",
+        "pushedAt": "2022-01-27T14:41:25Z",
+        "releases": 21,
+        "issues": 0,
+        "commits": 71,
+        "license": "apache-2.0",
+        "issue_rate": 0.0,
+        "commit_rate": 1.868
+    },
+    "oatakan/ansible-role-windows_virtualbox_guest_additions": {
+        "createdAt": "2019-07-01T15:23:51Z",
+        "pushedAt": "2021-07-13T18:04:31Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 5,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.208
+    },
+    "ccdc-opensource/ansible-role-ccdc-expand-artifactory-archives": {
+        "createdAt": "2021-04-09T18:53:07Z",
+        "pushedAt": "2021-07-01T09:33:19Z",
+        "releases": 1,
+        "issues": 0,
+        "commits": 43,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 21.5
+    },
+    "mrlesmithjr/ansible-guacamole": {
+        "createdAt": "2017-11-28T16:49:30Z",
+        "pushedAt": "2021-08-30T20:12:53Z",
+        "releases": 1,
+        "issues": 4,
+        "commits": 47,
+        "license": "mit",
+        "issue_rate": 0.089,
+        "commit_rate": 1.044
+    },
+    "redhat-sap/sap-hana-ha-pacemaker": {
+        "createdAt": "2020-06-04T09:43:33Z",
+        "pushedAt": "2021-08-05T13:45:02Z",
+        "releases": 1,
+        "issues": 4,
+        "commits": 23,
+        "license": "apache-2.0",
+        "issue_rate": 0.286,
+        "commit_rate": 1.643
+    },
+    "indigo-dc/ansible-role-galaxycloud-fastconfig": {
+        "createdAt": "2017-08-26T21:10:19Z",
+        "pushedAt": "2021-11-12T12:24:12Z",
+        "releases": 7,
+        "issues": 0,
+        "commits": 197,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 3.94
+    },
+    "gantsign/ansible-role-pin-to-launcher": {
+        "createdAt": "2016-08-26T14:41:14Z",
+        "pushedAt": "2022-01-10T21:42:49Z",
+        "releases": 11,
+        "issues": 4,
+        "commits": 97,
+        "license": "mit",
+        "issue_rate": 0.062,
+        "commit_rate": 1.516
+    },
+    "m4rcu5nl/ansible-role-zerotier": {
+        "createdAt": "2017-07-26T21:36:31Z",
+        "pushedAt": "2021-09-15T11:07:34Z",
+        "releases": 9,
+        "issues": 13,
+        "commits": 89,
+        "license": "gpl-3.0",
+        "issue_rate": 0.265,
+        "commit_rate": 1.816
+    },
+    "andrewrothstein/ansible-useful-groups": {
+        "createdAt": "2016-07-14T15:17:49Z",
+        "pushedAt": "2021-09-06T20:56:00Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 10,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.164
+    },
+    "idealista/postgresql_role": {
+        "createdAt": "2020-01-20T17:35:20Z",
+        "pushedAt": "2021-08-08T02:15:22Z",
+        "releases": 7,
+        "issues": 6,
+        "commits": 131,
+        "license": "apache-2.0",
+        "issue_rate": 0.333,
+        "commit_rate": 7.278
+    },
+    "nephelaiio/ansible-role-centos-installer": {
+        "createdAt": "2018-04-16T23:44:20Z",
+        "pushedAt": "2021-10-07T15:43:29Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 113,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 2.756
+    },
+    "gantsign/ansible_role_swapspace": {
+        "createdAt": "2019-10-06T12:52:43Z",
+        "pushedAt": "2022-01-11T19:39:32Z",
+        "releases": 2,
+        "issues": 0,
+        "commits": 19,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 0.704
+    },
+    "sdarwin/Ansible-VNC": {
+        "createdAt": "2018-01-11T14:12:18Z",
+        "pushedAt": "2022-01-14T21:56:40Z",
+        "releases": 0,
+        "issues": 10,
+        "commits": 64,
+        "license": "gpl-2.0",
+        "issue_rate": 0.208,
+        "commit_rate": 1.333
+    },
+    "systemli/ansible-role-apt_repositories": {
+        "createdAt": "2020-05-26T07:33:06Z",
+        "pushedAt": "2022-01-30T14:23:38Z",
+        "releases": 0,
+        "issues": 2,
+        "commits": 72,
+        "license": "gpl-3.0",
+        "issue_rate": 0.1,
+        "commit_rate": 3.6
+    },
+    "marvel-nccr/ansible-role-cp2k": {
+        "createdAt": "2018-05-09T12:16:50Z",
+        "pushedAt": "2021-03-24T18:55:26Z",
+        "releases": 1,
+        "issues": 1,
+        "commits": 24,
+        "license": "other",
+        "issue_rate": 0.029,
+        "commit_rate": 0.706
+    },
+    "robertdebock/ansible-role-auto_update": {
+        "createdAt": "2019-12-28T06:46:00Z",
+        "pushedAt": "2022-01-27T10:19:16Z",
+        "releases": 33,
+        "issues": 1,
+        "commits": 175,
+        "license": "apache-2.0",
+        "issue_rate": 0.04,
+        "commit_rate": 7.0
+    },
+    "RedHatOfficial/ansible-role-rhel7-cui": {
+        "createdAt": "2018-06-04T18:08:05Z",
+        "pushedAt": "2021-12-10T01:44:18Z",
+        "releases": 20,
+        "issues": 0,
+        "commits": 69,
+        "license": null,
+        "issue_rate": 0.0,
+        "commit_rate": 1.643
+    },
+    "IDR/ansible-role-openstack-idr-instance-network": {
+        "createdAt": "2017-01-12T14:51:37Z",
+        "pushedAt": "2021-07-26T08:55:09Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 13,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.241
+    },
+    "darkwizard242/ansible-role-awsnuke": {
+        "createdAt": "2020-04-22T16:50:12Z",
+        "pushedAt": "2022-01-28T20:51:58Z",
+        "releases": 8,
+        "issues": 0,
+        "commits": 67,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 3.19
+    },
+    "itnok/ansible-role-config-itnokterm-ubuntu": {
+        "createdAt": "2020-05-02T22:57:41Z",
+        "pushedAt": "2021-03-11T08:13:04Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 10,
+        "license": "other",
+        "issue_rate": 0.0,
+        "commit_rate": 1.0
+    },
+    "IDR/ansible-role-openstack-idr-instance": {
+        "createdAt": "2017-01-12T14:51:31Z",
+        "pushedAt": "2021-08-02T12:25:10Z",
+        "releases": 0,
+        "issues": 1,
+        "commits": 40,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.019,
+        "commit_rate": 0.741
+    },
+    "darkwizard242/ansible-role-scout": {
+        "createdAt": "2020-03-28T23:18:15Z",
+        "pushedAt": "2021-05-01T16:49:29Z",
+        "releases": 12,
+        "issues": 0,
+        "commits": 61,
+        "license": "mit",
+        "issue_rate": 0.0,
+        "commit_rate": 4.692
+    },
+    "jtprogru/ansible-role-configure-timesyncd": {
+        "createdAt": "2021-01-14T20:48:00Z",
+        "pushedAt": "2021-09-03T14:45:25Z",
+        "releases": 8,
+        "issues": 1,
+        "commits": 15,
+        "license": "wtfpl",
+        "issue_rate": 0.143,
+        "commit_rate": 2.143
+    },
+    "Xilonz/trellis-backup-role": {
+        "createdAt": "2017-04-24T14:35:26Z",
+        "pushedAt": "2022-01-13T15:19:08Z",
+        "releases": 3,
+        "issues": 23,
+        "commits": 52,
+        "license": null,
+        "issue_rate": 0.411,
+        "commit_rate": 0.929
+    },
+    "IDR/ansible-role-openstack-idr-keypairs": {
+        "createdAt": "2017-01-12T14:51:44Z",
+        "pushedAt": "2021-07-26T08:56:40Z",
+        "releases": 0,
+        "issues": 0,
+        "commits": 9,
+        "license": "bsd-2-clause",
+        "issue_rate": 0.0,
+        "commit_rate": 0.167
+    },
+    "grzegorznowak/ansible-nvm-node": {
+        "createdAt": "2018-09-26T09:35:10Z",
+        "pushedAt": "2021-06-15T16:38:34Z",
+        "releases": 16,
+        "issues": 4,
+        "commits": 53,
+        "license": null,
+        "issue_rate": 0.125,
+        "commit_rate": 1.656
+    }
+}
