@@ -6,9 +6,7 @@ robertdebock/ansible-role-service,2019-02-20T18:38:15Z,2022-01-27T13:33:09Z,61,2
 nginxinc/ansible-role-nginx-config,2020-08-10T14:23:45Z,2022-01-28T02:54:20Z,9,44,171,apache-2.0,2.588,10.059,17,176886,https://github.com/nginxinc/ansible-role-nginx-config.git
 linux-system-roles/timesync,2017-04-26T15:39:50Z,2022-01-17T21:43:25Z,16,25,164,mit,0.446,2.929,15,172989,https://github.com/linux-system-roles/timesync.git
 PyratLabs/ansible-role-k3s,2019-03-02T21:00:05Z,2022-01-30T14:08:53Z,48,93,367,bsd-3-clause,2.735,10.794,26,97009,https://github.com/PyratLabs/ansible-role-k3s.git
-cloudalchemy/ansible-snmp-exporter,2017-12-08T23:00:21Z,2022-01-30T14:22:41Z,16,1,131,mit,0.02,2.673,5,92611,https://github.com/cloudalchemy/ansible-snmp-exporter.git
 stackhpc/ansible-role-os-images,2017-05-18T14:11:10Z,2022-01-25T09:33:32Z,16,6,118,apache-2.0,0.107,2.107,12,80064,https://github.com/stackhpc/ansible-role-os-images.git
-avinetworks/ansible-role-avisdk,2016-09-28T18:27:53Z,2022-01-26T05:25:15Z,53,8,346,apache-2.0,0.127,5.492,20,59640,https://github.com/avinetworks/ansible-role-avisdk.git
 robertdebock/ansible-role-zabbix_repository,2018-12-20T15:22:02Z,2022-01-27T13:14:51Z,50,2,273,apache-2.0,0.054,7.378,2,56123,https://github.com/robertdebock/ansible-role-zabbix_repository.git
 threatstack/threatstack-ansible,2015-02-17T22:11:41Z,2021-11-15T16:16:46Z,22,16,168,mit,0.2,2.1,24,54872,https://github.com/threatstack/threatstack-ansible.git
 florianutz/Ubuntu1804-CIS,2018-12-12T20:28:30Z,2021-12-13T19:58:53Z,10,32,85,mit,0.889,2.361,20,33091,https://github.com/florianutz/Ubuntu1804-CIS.git
@@ -16,7 +14,6 @@ robertdebock/ansible-role-remi,2019-07-14T17:44:47Z,2022-01-27T14:18:33Z,38,1,24
 wcm-io-devops/ansible-aem-cms,2017-07-10T08:45:05Z,2021-10-04T14:14:24Z,6,1,121,apache-2.0,0.02,2.42,10,31211,https://github.com/wcm-io-devops/ansible-aem-cms.git
 patrickjahns/ansible-role-promtail,2020-02-08T17:06:42Z,2022-01-31T03:57:45Z,21,15,177,mit,0.652,7.696,17,26477,https://github.com/patrickjahns/ansible-role-promtail.git
 linux-system-roles/kdump,2017-04-25T16:37:55Z,2022-01-11T13:27:50Z,12,8,122,mit,0.143,2.179,12,23669,https://github.com/linux-system-roles/kdump.git
-thomas-maurice/ansible-role-gitea,2017-01-10T21:10:08Z,2022-01-16T16:46:40Z,1,15,123,bsd-3-clause,0.25,2.05,21,18366,https://github.com/thomas-maurice/ansible-role-gitea.git
 robertdebock/ansible-role-auditd,2019-06-18T13:53:52Z,2022-01-27T10:43:17Z,55,7,265,apache-2.0,0.226,8.548,5,17599,https://github.com/robertdebock/ansible-role-auditd.git
 florianutz/Ubuntu1604-CIS,2017-12-30T21:11:45Z,2021-09-23T23:27:18Z,4,16,88,mit,0.364,2.0,9,17505,https://github.com/florianutz/Ubuntu1604-CIS.git
 redhat-sap/sap-hostagent,2019-11-27T09:47:51Z,2021-09-18T11:46:37Z,1,6,51,apache-2.0,0.286,2.429,5,14854,https://github.com/redhat-sap/sap-hostagent.git
@@ -39,7 +36,7 @@ diodonfrost/ansible-role-amazon-codedeploy,2020-01-18T13:31:49Z,2021-11-08T20:13
 idealista/prometheus_node_exporter_role,2017-03-13T10:23:23Z,2021-09-28T09:08:16Z,17,15,142,apache-2.0,0.278,2.63,13,2798,https://github.com/idealista/prometheus_node_exporter_role.git
 idealista/postgresql_role,2020-01-20T17:35:20Z,2021-08-08T02:15:22Z,7,6,131,apache-2.0,0.333,7.278,3,2722,https://github.com/idealista/postgresql_role.git
 tarantool/ansible-cartridge,2019-08-29T11:06:24Z,2021-11-29T12:26:00Z,11,134,252,other,4.963,9.333,10,2629,https://github.com/tarantool/ansible-cartridge.git
-idealista/airflow-role,2017-07-17T08:53:18Z,2022-01-28T10:12:33Z,18,36,215,apache-2.0,0.667,3.981,14,2148,https://github.com/idealista/airflow-role.git
+idealista/airflow-role,2017-07-17T08:53:18Z,2022-01-28T10:12:33Z,18,36,215,apache-2.0,0.667,3.981,15,2148,https://github.com/idealista/airflow-role.git
 Venafi/ansible-role-venafi,2019-01-24T18:10:54Z,2021-10-30T00:38:11Z,12,12,328,apache-2.0,0.364,9.939,9,1870,https://github.com/Venafi/ansible-role-venafi.git
 cohesity/cohesity-ansible-role,2018-10-03T03:59:12Z,2022-01-28T13:53:31Z,18,14,223,apache-2.0,0.359,5.718,11,1744,https://github.com/cohesity/cohesity-ansible-role.git
 stackhpc/ansible-role-openhpc,2018-12-17T15:03:57Z,2022-01-24T15:36:36Z,8,55,339,apache-2.0,1.486,9.162,8,1609,https://github.com/stackhpc/ansible-role-openhpc.git
@@ -48,7 +45,6 @@ robertdebock/ansible-role-mssql,2018-02-27T18:44:04Z,2022-01-26T13:22:25Z,45,8,4
 linux-system-roles/nbde_server,2019-11-07T11:43:00Z,2022-01-11T13:47:12Z,7,2,65,mit,0.077,2.5,7,1415,https://github.com/linux-system-roles/nbde_server.git
 fedejaure/ansible-role-rpi-lcd,2020-08-19T19:49:00Z,2022-01-11T19:37:34Z,8,3,136,mit,0.188,8.5,2,1325,https://github.com/fedejaure/ansible-role-rpi-lcd.git
 jtprogru/ansible-role-install-base-soft,2019-07-17T11:09:36Z,2021-09-03T12:37:53Z,10,1,51,wtfpl,0.04,2.04,2,1303,https://github.com/jtprogru/ansible-role-install-base-soft.git
-jtprogru/ansible-role-configure-timesyncd,2021-01-14T20:48:00Z,2021-09-03T14:45:25Z,8,1,15,wtfpl,0.143,2.143,2,1301,https://github.com/jtprogru/ansible-role-configure-timesyncd.git
 marvel-nccr/ansible-role-aiida,2018-05-10T08:30:58Z,2021-09-24T08:57:19Z,17,27,110,other,0.675,2.75,6,1269,https://github.com/marvel-nccr/ansible-role-aiida.git
 jtprogru/ansible-role-install-atop,2021-02-27T17:15:39Z,2021-09-03T13:41:09Z,4,1,13,wtfpl,0.167,2.167,2,1259,https://github.com/jtprogru/ansible-role-install-atop.git
 nginxinc/ansible-role-nginx-app-protect,2020-04-10T14:56:07Z,2022-01-21T19:25:28Z,16,10,290,apache-2.0,0.476,13.81,7,1176,https://github.com/nginxinc/ansible-role-nginx-app-protect.git

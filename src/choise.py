@@ -1,6 +1,8 @@
 import datetime
 import json
 import os
+import pickle
+import subprocess
 from GitHub import GitHubAPIv3
 
 import pandas as pd
@@ -42,14 +44,21 @@ def check():
         store.append(tmp)
     df = pd.DataFrame(store, columns=["project", "createdAt", "pushedAt", "releases", "issues", "commits", "license",
                                       "issue_rate", "commit_rate"])
-
+    df = df.set_index("project")
     # Clone to ./meta/clones/github.com pls
-    if os.path.exists(os.path.normpath(os.path.join(cwd, "../out/chosen.csv"))):
-        df = pd.read_csv(os.path.normpath(os.path.join(cwd, "../out/chosen.csv")))
+
+    if os.path.exists(os.path.normpath(os.path.join(cwd, "../.cache/contributor.pkl"))):
+        with open(os.path.normpath(os.path.join(cwd, "../.cache/contributor.pkl")), 'rb') as f:
+            df = pickle.load(f)
     else:
         df = get_contributors(df)
+        with open(os.path.normpath(os.path.join(cwd, "../.cache/contributor.pkl")), 'wb') as f:
+            pickle.dump(df, f)
     df = df.query("contributors > 1")
-    df["project"].to_csv(os.path.normpath(os.path.join(cwd, "../meta/clones/repo.csv")), index=False, header=False)
+    df = get_loc(df)
+    project = list(df.index)
+    pd.DataFrame(project).to_csv(os.path.normpath(os.path.join(cwd, "../meta/clones/repo.csv")), index=False,
+                                 header=False)
     concat(df)
 
 
@@ -58,14 +67,13 @@ def concat(chosen: pd.DataFrame):
     galaxy = pd.read_csv(os.path.normpath(os.path.join(cwd, "../meta/galaxy/galaxy_roles.csv")))
     chosen = chosen.assign(downloads=0, url="")
     galaxy = galaxy[["url", "downloads"]]
-    for index, row in chosen.iterrows():
-        project = row["project"]
+    for project, row in chosen.iterrows():
         query = 'url.str.contains("{}")'.format(project)
-        chosen.at[index, 'downloads'] = galaxy.query(query, engine='python')["downloads"].values[0]
-        chosen.at[index, 'url'] = galaxy.query(query, engine='python')["url"].values[0]
-    chosen_path = os.path.normpath(os.path.join(cwd, "../out/chosen.csv"))
+        chosen.at[project, 'downloads'] = galaxy.query(query, engine='python')["downloads"].values[0]
+        chosen.at[project, 'url'] = galaxy.query(query, engine='python')["url"].values[0]
+    chosen_path = os.path.normpath(os.path.join(cwd, "../out/summary.csv"))
     chosen["contributors"] = chosen["contributors"].astype("int")
-    chosen.sort_values("downloads", ascending=False).to_csv(chosen_path, index=False)
+    chosen.sort_values("downloads", ascending=False).to_csv(chosen_path)
     print("# Repository: {}".format(len(chosen)))
 
 
@@ -76,11 +84,44 @@ def get_contributors(df: pd.DataFrame):  # GitHub API v4 cannot get #contributor
     api = GitHubAPIv3(options)
 
     df.assign(contributors=0)
-    for index, row in df.iterrows():
-        project = row["project"]
-        owner = project.split("/")[0]
-        repo = project.split("/")[1]
+    for project, row in df.iterrows():
+        owner = str(project).split("/")[0]
+        repo = str(project).split("/")[1]
         contributors = api.get_contributors(owner, repo, params={"anon": 1})
-        df.at[index, "contributors"] = int(len(contributors))
+        df.at[project, "contributors"] = int(len(contributors))
         print("{} contributor: {}".format(project, len(contributors)))
     return df
+
+
+def get_loc(df: pd.DataFrame):
+    cwd = os.path.dirname(__file__)
+    drop_list = []
+    for item, row in df.iterrows():
+        path = os.path.normpath(os.path.join(cwd, "../meta/clones/github.com/{}".format(item)))
+        out = subprocess.run(["/opt/homebrew/bin/cloc", path, "--csv"], capture_output=True, text=True).stdout
+        out = out.split("\n")[6:-1]
+        yaml_count = [s for s in out if "YAML" in s][0].split(",")
+        yaml_description = {
+            "files": int(yaml_count[0]),
+            "comment": int(yaml_count[3]),
+            "code": int(yaml_count[4])
+        }
+        sum_count = [s for s in out if "SUM" in s][0].split(",")
+        overall = {
+            "files": int(sum_count[0]),
+            "comment": int(sum_count[3]),
+            "code": int(sum_count[4])
+        }
+        if overall["code"] < 100:
+            drop_list.append(item)
+            print("Dropped (LOC < 100): {}".format(item))
+            continue
+        if overall["comment"] < overall["code"] * 0.01:
+            drop_list.append(item)
+            print("Dropped (#Comment < 0.01%): {}".format(item))
+            continue
+        if yaml_description["files"] < overall["files"] * 0.1:
+            drop_list.append(item)
+            print("Dropped (.yaml < 0.1%): {}".format(item))
+            continue
+    return df.drop(drop_list)
