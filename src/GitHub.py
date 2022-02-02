@@ -2,11 +2,15 @@ import sys
 import urllib.request
 import re
 from urllib.error import URLError
-from urllib.parse import quote, urlencode
+from urllib.parse import urlencode
 import json
 
+from gql.transport.aiohttp import AIOHTTPTransport
+from gql import Client, gql
+from gql.transport.exceptions import TransportQueryError
 
-class GitHubREST:
+
+class GitHubAPIv3:
     BASE_URL = "https://api.github.com"
 
     def __init__(self, option=None):
@@ -56,3 +60,31 @@ class GitHubREST:
         if params:
             url = '{0}&{1}'.format(url, urlencode(params))
         return self.__get_json(url, paginate=True)
+
+
+class GitHubAPIv4:
+    BASE_URL = "https://api.github.com/graphql"
+
+    def __init__(self, token=None):
+        if token is None:
+            token = ""
+        self.token = token
+
+    def __create_client(self):
+        transport = AIOHTTPTransport(
+            url=self.BASE_URL,
+            headers={"Content-type": "application/json", "Authorization": "Bearer {}".format(self.token)},
+        )
+        return Client(transport=transport, fetch_schema_from_transport=True)
+
+    def __get_json(self, query: gql, params):
+        client = self.__create_client()
+        try:
+            return client.execute(query, variable_values=params)
+        except TransportQueryError as e:
+            print("Could not access")
+            print(e, file=sys.stderr)
+            return {}
+
+    def call_query(self, query: str, params: dict):
+        return self.__get_json(gql(query), params)

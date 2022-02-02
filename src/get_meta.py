@@ -1,54 +1,12 @@
 import json
 import os.path
 import pickle
-import sys
 import csv
 from datetime import datetime
 
 import pandas as pd
-from gql import Client, gql
-from gql.transport.exceptions import TransportQueryError
 
-
-def call(client: Client, name: str, owner: str) -> dict:
-    query = gql(
-        """
-query ($name: String!, $owner: String!) {
-  repository(name: $name, owner: $owner) {
-    createdAt
-    pushedAt
-    licenseInfo {
-      key
-    }
-    releases {
-      totalCount
-    }
-    issues {
-      totalCount
-    }
-    defaultBranchRef {
-      target {
-        ... on Commit {
-          history(first: 0) {
-            totalCount
-          }
-        }
-      }
-    }
-  }
-}
-        """
-    )
-    params = {
-        "owner": owner,
-        "name": name,
-    }
-    try:
-        d = client.execute(query, variable_values=params)
-    except TransportQueryError as e:
-        print(e, file=sys.stderr)
-        return {}
-    return d
+from GitHub import GitHubAPIv4
 
 
 def parse_meta(d: dict) -> dict:
@@ -81,7 +39,8 @@ def parse_meta(d: dict) -> dict:
     return parsed_meta
 
 
-def get_meta(client: Client):
+def get_meta():
+    api = GitHubAPIv4(os.getenv("GITHUB_ACCESS_TOKEN"))
     cwd = os.path.dirname(__file__)
     repo_name = []
     notfound = []
@@ -108,10 +67,39 @@ def get_meta(client: Client):
     if meta_d != {}:
         repo_name = list(set(repo_name) - set(meta_d.keys()))
 
+    query = (
+        """
+query ($name: String!, $owner: String!) {
+  repository(name: $name, owner: $owner) {
+    createdAt
+    pushedAt
+    licenseInfo {
+      key
+    }
+    releases {
+      totalCount
+    }
+    issues {
+      totalCount
+    }
+    defaultBranchRef {
+      target {
+        ... on Commit {
+          history(first: 0) {
+            totalCount
+          }
+        }
+      }
+    }
+  }
+}
+        """
+    )
+
     for full_name in repo_name:
         owner = full_name.split("/")[0]
         name = full_name.split("/")[1]
-        meta = call(client, name, owner)
+        meta = api.call_query(query=query, params={"owner": owner, "name": name})
         if meta != {}:
             meta_d[full_name] = parse_meta(meta)
         else:

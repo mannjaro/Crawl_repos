@@ -1,7 +1,7 @@
 import datetime
 import json
 import os
-from rest import GitHubREST
+from GitHub import GitHubAPIv3
 
 import pandas as pd
 
@@ -26,7 +26,6 @@ def check():
     }
     store = []
     for key, value in meta.items():
-        tmp = []
         delta = rules["push_events"] - datetime.datetime.fromisoformat(value["pushedAt"].replace("Z", "+00:00"))
         if delta.days > 6 * 30:
             continue
@@ -44,13 +43,13 @@ def check():
     df = pd.DataFrame(store, columns=["project", "createdAt", "pushedAt", "releases", "issues", "commits", "license",
                                       "issue_rate", "commit_rate"])
 
-    df["project"].to_csv(os.path.normpath(os.path.join(cwd, "../meta/clones/repo.csv")), index=False, header=False)
     # Clone to ./meta/clones/github.com pls
     if os.path.exists(os.path.normpath(os.path.join(cwd, "../out/chosen.csv"))):
         df = pd.read_csv(os.path.normpath(os.path.join(cwd, "../out/chosen.csv")))
     else:
         df = get_contributors(df)
     df = df.query("contributors > 1")
+    df["project"].to_csv(os.path.normpath(os.path.join(cwd, "../meta/clones/repo.csv")), index=False, header=False)
     concat(df)
 
 
@@ -74,7 +73,7 @@ def get_contributors(df: pd.DataFrame):  # GitHub API v4 cannot get #contributor
     options = {
         "token": os.getenv("GITHUB_ACCESS_TOKEN")
     }
-    api = GitHubREST(options)
+    api = GitHubAPIv3(options)
 
     df.assign(contributors=0)
     for index, row in df.iterrows():
